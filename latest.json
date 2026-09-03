@@ -1,5 +1,5 @@
 {
-  "version": "0.9.0",
-  "url": "https://github.com/kleindca/goat-releases/releases/download/v0.9.0/GOAT-0.9.0-win64.zip",
-  "notes": "First release with the auto-update-check feature."
+  "version": "0.9.1",
+  "url": "https://github.com/kleindca/goat-releases/releases/download/v0.9.1/GOAT-Setup-0.9.1.exe",
+  "notes": "Native window instead of a browser tab, real license activation, hosted AI gateway, a biggest-opportunity headline on every session, SMART now always listens, and several telemetry/overlay bug fixes."
 }
