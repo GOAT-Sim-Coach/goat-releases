@@ -1,5 +1,5 @@
 {
-  "version": "0.9.3",
-  "url": "https://github.com/kleindca/goat-releases/releases/download/v0.9.3/GOAT-Setup-0.9.3.exe",
-  "notes": "Installer now shows its racing quotes on fast machines, the header Activate button reflects real state (Activate / Sign in / Signed in), plus SMART setup awareness, in-race pit-service requests and the voice setup engine from 0.9.2."
+  "version": "0.9.4",
+  "url": "https://github.com/kleindca/goat-releases/releases/download/v0.9.4/GOAT-Setup-0.9.4.exe",
+  "notes": "OBS Studio setup now actually runs from the installer (it needs an admin prompt GOAT's per-user install never raised), plus the installer racing quotes and the Activate / Sign in / Signed in header button fixes from 0.9.3."
 }
