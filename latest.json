@@ -1,5 +1,5 @@
 {
-  "version": "0.9.1",
-  "url": "https://github.com/kleindca/goat-releases/releases/download/v0.9.1/GOAT-Setup-0.9.1.exe",
-  "notes": "Native window instead of a browser tab, real license activation, hosted AI gateway, a biggest-opportunity headline on every session, SMART now always listens, and several telemetry/overlay bug fixes."
+  "version": "0.9.3",
+  "url": "https://github.com/kleindca/goat-releases/releases/download/v0.9.3/GOAT-Setup-0.9.3.exe",
+  "notes": "Installer now shows its racing quotes on fast machines, the header Activate button reflects real state (Activate / Sign in / Signed in), plus SMART setup awareness, in-race pit-service requests and the voice setup engine from 0.9.2."
 }
