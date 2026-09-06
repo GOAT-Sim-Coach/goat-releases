@@ -1,5 +1,5 @@
 {
-  "version": "0.9.5",
-  "url": "https://github.com/kleindca/goat-releases/releases/download/v0.9.5/GOAT-Setup-0.9.5.exe",
-  "notes": "Track map draws a real per-track road built from every lap you've driven there, a live section-feedback box under the lap trace follows the cursor corner by corner, lap table + trace sit beside a same-height map, the setup panel packs into columns on wide screens, and a wrong-track reference no longer gets auto-selected on open."
+  "version": "0.9.6",
+  "url": "https://github.com/kleindca/goat-releases/releases/download/v0.9.6/GOAT-Setup-0.9.6.exe",
+  "notes": "SMART calls corners by name on well-known circuits and speaks lap times, PBs and shift points instantly; leaner AI usage with working prompt caching; new ? Help (GOAT Help) and Phone (companion app) buttons; a safe config writer that can't lose your settings."
 }
