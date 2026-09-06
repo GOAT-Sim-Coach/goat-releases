@@ -1,5 +1,5 @@
 {
-  "version": "0.9.4",
-  "url": "https://github.com/kleindca/goat-releases/releases/download/v0.9.4/GOAT-Setup-0.9.4.exe",
-  "notes": "OBS Studio setup now actually runs from the installer (it needs an admin prompt GOAT's per-user install never raised), plus the installer racing quotes and the Activate / Sign in / Signed in header button fixes from 0.9.3."
+  "version": "0.9.5",
+  "url": "https://github.com/kleindca/goat-releases/releases/download/v0.9.5/GOAT-Setup-0.9.5.exe",
+  "notes": "Track map draws a real per-track road built from every lap you've driven there, a live section-feedback box under the lap trace follows the cursor corner by corner, lap table + trace sit beside a same-height map, the setup panel packs into columns on wide screens, and a wrong-track reference no longer gets auto-selected on open."
 }
