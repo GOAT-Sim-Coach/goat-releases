@@ -1,5 +1,5 @@
 {
-  "version": "0.9.6",
-  "url": "https://github.com/kleindca/goat-releases/releases/download/v0.9.6/GOAT-Setup-0.9.6.exe",
-  "notes": "SMART calls corners by name on well-known circuits and speaks lap times, PBs and shift points instantly; leaner AI usage with working prompt caching; new ? Help (GOAT Help) and Phone (companion app) buttons; a safe config writer that can't lose your settings."
+  "version": "0.9.7",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.7/GOAT-Setup-0.9.7.exe",
+  "notes": "Housekeeping: GOAT moved to its own GitHub organisation; update checks and download links now point there directly. No functional changes since v0.9.6."
 }
