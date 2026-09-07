@@ -1,5 +1,5 @@
 {
-  "version": "0.9.7",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.7/GOAT-Setup-0.9.7.exe",
-  "notes": "Housekeeping: GOAT moved to its own GitHub organisation; update checks and download links now point there directly. No functional changes since v0.9.6."
+  "version": "0.9.8",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.8/GOAT-Setup-0.9.8.exe",
+  "notes": "Track map: reference laps (Virtual Best / optimal) now sit on the road in every session; older saved references are rebuilt automatically on first use. Corner Debrief racing-line comparison fixed by the same change. Update check ignores pre-release tags."
 }
