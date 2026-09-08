@@ -1,5 +1,5 @@
 {
-  "version": "0.9.16",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.16/GOAT-Setup-0.9.16.exe",
-  "notes": "SMART hears whole questions (no more half-question cut-offs) and starts answering sooner, speaking sentence by sentence. Relative overlay opens as the positions list with your gaps ahead and behind. Includes 0.9.15's ears fix and 0.9.14's in-app manual, FAQ and highlight-clip fix."
+  "version": "0.9.17",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.17/GOAT-Setup-0.9.17.exe",
+  "notes": "Stopping SMART now stops the OBS recording, a closed sim stops it on its own after 45 s, and OBS's first-run streaming wizard no longer appears. Plus 0.9.16: SMART hears whole questions and answers sooner; Relative opens as the positions list."
 }
