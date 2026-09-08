@@ -1,6 +1,6 @@
 {
-  "version": "0.9.22",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.22/GOAT-Setup-0.9.22.exe",
-  "sha256": "d9319384921c0ccaff70a57a92f0a4cfe7b271644194fe9d591776fcdb3a6024",
-  "notes": "Tyre Overlay for AC, ACC and iRacing; the Engineer Dashboard for a second monitor (fuel projection, pit window, tyres, car health, field with pace trend, laps with sectors, SMART radio); a visible Fuel calculator with race planner and live fuel-to-finish."
+  "version": "0.9.23",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.23/GOAT-Setup-0.9.23.exe",
+  "sha256": "375dcdcbeac8ea70b0bd14ab347446c49067beb4aca7d06ab931301047b05f3b",
+  "notes": "Telemetry Overlay now compares against your best clean lap of the session when no Virtual Best exists, so the reference traces always appear. Plus 0.9.22: tyre overlay, engineer dashboard, fuel calculator."
 }
