@@ -1,5 +1,5 @@
 {
-  "version": "0.9.8",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.8/GOAT-Setup-0.9.8.exe",
-  "notes": "Track map: reference laps (Virtual Best / optimal) now sit on the road in every session; older saved references are rebuilt automatically on first use. Corner Debrief racing-line comparison fixed by the same change. Update check ignores pre-release tags."
+  "version": "0.9.9",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.9/GOAT-Setup-0.9.9.exe",
+  "notes": "SMART/coach can change every Assetto Corsa setup value, incl. tyre pressures and fuel; each change first saves '<name> v1 <date>' (v2, v3 ... within the day) next to the original so the previous version stays loadable in the game."
 }
