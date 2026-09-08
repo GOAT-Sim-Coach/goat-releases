@@ -1,5 +1,5 @@
 {
-  "version": "0.9.14",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.14/GOAT-Setup-0.9.14.exe",
-  "notes": "Manual and FAQ inside the app (new Manual header button, works offline). Recording & highlights documented end to end. Fix: highlight clips never cut on a packaged install because ffmpeg was never downloaded - now fetched automatically when a recording starts."
+  "version": "0.9.15",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.15/GOAT-Setup-0.9.15.exe",
+  "notes": "SMART's ears now work in the installed app (a voice-activity model file was missing from every earlier build). Manual and FAQ inside the app, recording & highlights documented, ffmpeg fetched automatically for highlight clips."
 }
