@@ -1,6 +1,6 @@
 {
-  "version": "0.9.21",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.21/GOAT-Setup-0.9.21.exe",
-  "sha256": "edce8b5b2f96979d2b5ae32d96f7ad8d4d9b3638c3e816019b180eed680ccbee",
-  "notes": "In-app updates from the version badge: download with progress, verify, restart, silent install, GOAT reopens. Plus 0.9.19 OBS fixes and the 0.9.18 batch."
+  "version": "0.9.22",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.22/GOAT-Setup-0.9.22.exe",
+  "sha256": "d9319384921c0ccaff70a57a92f0a4cfe7b271644194fe9d591776fcdb3a6024",
+  "notes": "Tyre Overlay for AC, ACC and iRacing; the Engineer Dashboard for a second monitor (fuel projection, pit window, tyres, car health, field with pace trend, laps with sectors, SMART radio); a visible Fuel calculator with race planner and live fuel-to-finish."
 }
