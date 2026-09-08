@@ -1,5 +1,5 @@
 {
-  "version": "0.9.13",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.13/GOAT-Setup-0.9.13.exe",
-  "notes": "Three-row header: app controls on top, game tabs, then the selected game's Live tools. Plus the Assetto Corsa launch-crash fix, automatic OBS setup, honest gaps in traces/maps, automatic Virtual Best and the new telemetry layout from 0.9.11/0.9.12."
+  "version": "0.9.14",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.14/GOAT-Setup-0.9.14.exe",
+  "notes": "Manual and FAQ inside the app (new Manual header button, works offline). Recording & highlights documented end to end. Fix: highlight clips never cut on a packaged install because ffmpeg was never downloaded - now fetched automatically when a recording starts."
 }
