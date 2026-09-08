@@ -1,5 +1,5 @@
 {
-  "version": "0.9.9",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.9/GOAT-Setup-0.9.9.exe",
-  "notes": "SMART/coach can change every Assetto Corsa setup value, incl. tyre pressures and fuel; each change first saves '<name> v1 <date>' (v2, v3 ... within the day) next to the original so the previous version stays loadable in the game."
+  "version": "0.9.10",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.10/GOAT-Setup-0.9.10.exe",
+  "notes": "Installer: the OBS Studio step now shows live progress (check, download with MB counted, OBS's own installer, outcome) instead of looking frozen. App unchanged from 0.9.9."
 }
