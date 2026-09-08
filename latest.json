@@ -1,5 +1,5 @@
 {
-  "version": "0.9.15",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.15/GOAT-Setup-0.9.15.exe",
-  "notes": "SMART's ears now work in the installed app (a voice-activity model file was missing from every earlier build). Manual and FAQ inside the app, recording & highlights documented, ffmpeg fetched automatically for highlight clips."
+  "version": "0.9.16",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.16/GOAT-Setup-0.9.16.exe",
+  "notes": "SMART hears whole questions (no more half-question cut-offs) and starts answering sooner, speaking sentence by sentence. Relative overlay opens as the positions list with your gaps ahead and behind. Includes 0.9.15's ears fix and 0.9.14's in-app manual, FAQ and highlight-clip fix."
 }
