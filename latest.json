@@ -1,6 +1,6 @@
 {
-  "version": "0.9.23",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.23/GOAT-Setup-0.9.23.exe",
-  "sha256": "375dcdcbeac8ea70b0bd14ab347446c49067beb4aca7d06ab931301047b05f3b",
-  "notes": "Telemetry Overlay now compares against your best clean lap of the session when no Virtual Best exists, so the reference traces always appear. Plus 0.9.22: tyre overlay, engineer dashboard, fuel calculator."
+  "version": "0.9.24",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.24/GOAT-Setup-0.9.24.exe",
+  "sha256": "9a9d819fc91d18c0658e2ae6c5c16d3822b5384504be0f6f465ad2eee7c454af",
+  "notes": "Community lap sharing on session open; Garage61 laps gated by telemetry access; manual pictures. Plus 0.9.23's session-best overlay reference and 0.9.22's tyre overlay, dashboard and fuel calculator."
 }
