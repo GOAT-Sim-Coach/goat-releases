@@ -1,5 +1,5 @@
 {
-  "version": "0.9.18",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.18/GOAT-Setup-0.9.18.exe",
-  "notes": "Assetto Corsa sessions now load laps, telemetry and map. SMART stops asking 'you alright?' on normal braking and changes setups between sessions. Highlights button shows recording/cutting/clip status. Closing GOAT closes overlays and SMART. Bigger Relative, blind-spot radar, mirror setup guide, deeper voice, tighter layout."
+  "version": "0.9.19",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.19/GOAT-Setup-0.9.19.exe",
+  "notes": "OBS's first-run streaming wizard no longer appears, and OBS starts cleanly after an unclean shutdown. Plus 0.9.18: Assetto Corsa sessions load laps, telemetry and map; SMART stops false 'you alright?' calls and changes setups between sessions; Highlights status; closing GOAT closes overlays; bigger Relative, blind-spot radar, deeper voice, tighter layout."
 }
