@@ -1,5 +1,5 @@
 {
-  "version": "0.9.10",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.10/GOAT-Setup-0.9.10.exe",
-  "notes": "Installer: the OBS Studio step now shows live progress (check, download with MB counted, OBS's own installer, outcome) instead of looking frozen. App unchanged from 0.9.9."
+  "version": "0.9.11",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.11/GOAT-Setup-0.9.11.exe",
+  "notes": "Assetto Corsa: fixes a game crash on launch when a GOAT overlay/radar/SMART was open first. OBS set up automatically. Official sim marks, iRacing/AC overlay dropdowns, redesigned account and backup windows, REL/RADAR/MIRROR buttons on the overlay."
 }
