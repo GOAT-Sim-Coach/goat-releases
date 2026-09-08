@@ -1,5 +1,5 @@
 {
-  "version": "0.9.11",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.11/GOAT-Setup-0.9.11.exe",
-  "notes": "Assetto Corsa: fixes a game crash on launch when a GOAT overlay/radar/SMART was open first. OBS set up automatically. Official sim marks, iRacing/AC overlay dropdowns, redesigned account and backup windows, REL/RADAR/MIRROR buttons on the overlay."
+  "version": "0.9.12",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.12/GOAT-Setup-0.9.12.exe",
+  "notes": "Traces/maps show real gaps instead of straight lines across resets; Virtual Best built automatically per car+track (map colours + corner feedback without a manual step); Corner Debrief full width until a reference is picked; stats above the map, taller laps table, three-column setup with Notes beside it; tighter road ribbon."
 }
