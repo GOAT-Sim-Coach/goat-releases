@@ -1,5 +1,5 @@
 {
-  "version": "0.9.17",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.17/GOAT-Setup-0.9.17.exe",
-  "notes": "Stopping SMART now stops the OBS recording, a closed sim stops it on its own after 45 s, and OBS's first-run streaming wizard no longer appears. Plus 0.9.16: SMART hears whole questions and answers sooner; Relative opens as the positions list."
+  "version": "0.9.18",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.18/GOAT-Setup-0.9.18.exe",
+  "notes": "Assetto Corsa sessions now load laps, telemetry and map. SMART stops asking 'you alright?' on normal braking and changes setups between sessions. Highlights button shows recording/cutting/clip status. Closing GOAT closes overlays and SMART. Bigger Relative, blind-spot radar, mirror setup guide, deeper voice, tighter layout."
 }
