@@ -1,6 +1,6 @@
 {
-  "version": "0.9.39",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.39/GOAT-Setup-0.9.39.exe",
-  "sha256": "d167a5afd9535e35c7b4407e47840f49a5aaa7b1de52ed183406041875a437e3",
-  "notes": "Recording stops on its own (out of car, sim closed, SMART gone); SMART tracked across updates; overlay trace fix + official sim icons. Includes 0.9.38."
+  "version": "0.9.40",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.40/GOAT-Setup-0.9.40.exe",
+  "sha256": "3608efc2957d1e2173db1c5db3bb6ebf35f3590a69958fc3f790b712f6b92ac5",
+  "notes": "SMART responds faster: instant Copy, first clause spoken early, quicker end-of-speech. Includes 0.9.39."
 }
