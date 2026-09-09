@@ -1,6 +1,6 @@
 {
-  "version": "0.9.36",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.36/GOAT-Setup-0.9.36.exe",
-  "sha256": "4aa444960596f13120438259c1f18ae9868349420d44f94a07f57cedd4fb0fae",
-  "notes": "Recording fix: game capture added to the OBS scene (fullscreen sims recorded black). Highlights library: last session with thumbnails, older sessions collapsed, one folder per session. Includes 0.9.35."
+  "version": "0.9.37",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.37/GOAT-Setup-0.9.37.exe",
+  "sha256": "4e01df124bd86c9569d9ad56a45570037e6d6eff937a237602fe448aae8fd68b",
+  "notes": "Highlights follow the selected game tab. Includes 0.9.36 recording fix + library layout."
 }
