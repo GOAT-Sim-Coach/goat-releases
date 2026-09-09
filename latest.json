@@ -1,6 +1,6 @@
 {
-  "version": "0.9.34",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.34/GOAT-Setup-0.9.34.exe",
-  "sha256": "8c26983cd6b1ca1c5fee8c6a42edcab269eea539e09531a1b304b70ce37bb14a",
-  "notes": "Conservative fuel model for lap and timed races (worst burn +3%, a lap in reserve, flag lap after the clock). Includes 0.9.33."
+  "version": "0.9.35",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.35/GOAT-Setup-0.9.35.exe",
+  "sha256": "3c7bd6de1f92d297ee1dd5e8357dfe8c2b94da08bba35c45bed83dd8a72ab58b",
+  "notes": "Fix: flashing console window every few seconds (OBS process check). Includes 0.9.34."
 }
