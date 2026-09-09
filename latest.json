@@ -1,6 +1,6 @@
 {
-  "version": "0.9.45",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.45/GOAT-Setup-0.9.45.exe",
-  "sha256": "d143d9f9a5e1cb1da490ea2746e51e61f47c8f133e89c01a69db3ea3aa1ddbfb",
-  "notes": "Language button in the header (English / Espanol, one click switches). GOAT en espanol: language picked by location on first start, SMART speaks and listens in Spanish. Includes 0.9.44."
+  "version": "0.9.46",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.46/GOAT-Setup-0.9.46.exe",
+  "sha256": "7e31bfa6e967245e8d6a548781f4e377f09a759c0aa53a8163518322adc1d55c",
+  "notes": "Engineer dashboard opens in its own window (Full screen button) and can be shown on a tablet or another PC on your network via a QR code. Includes 0.9.45 (language button) and 0.9.44 (GOAT en espanol)."
 }
