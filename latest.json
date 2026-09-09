@@ -1,6 +1,6 @@
 {
-  "version": "0.9.27",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.27/GOAT-Setup-0.9.27.exe",
-  "sha256": "b518ce696087c6746bc23b3a835929871121f81f144e8ad58deac864f5c489ff",
-  "notes": "GOAT learns your driving style from your own laps; SMART, the Coach and debriefs tailor setup advice and coaching to it. Includes 0.9.26 corner-phase setup method."
+  "version": "0.9.28",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.28/GOAT-Setup-0.9.28.exe",
+  "sha256": "8923a17604f746c656cd50830ff6fcbecf3fb42890c8ecaf8739b21ba997a852",
+  "notes": "SMART panel: Auto feedback / On demand buttons; rounded corners on every overlay. Includes 0.9.27 driver style profile."
 }
