@@ -1,6 +1,6 @@
 {
-  "version": "0.9.49",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.49/GOAT-Setup-0.9.49.exe",
-  "sha256": "26c58d789ce7b45bb26cead9cbcbad4ac499b5e5e5c24c4c7a48ee84501281c9",
-  "notes": "Telemetry overlay redesigned: pedal bars (throttle/brake/clutch), delta bar on top, you-bright / reference-dark traces, buttons only on hover. Includes 0.9.48."
+  "version": "0.9.50",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.50/GOAT-Setup-0.9.50.exe",
+  "sha256": "1370cfff2c076f7d9ed85b3dafd7cf1ef9414e048ddb8e4236e031099824b459",
+  "notes": "Radar redesigned as a warning disc with car blocks at real positions. Includes 0.9.49 (overlay redesign)."
 }
