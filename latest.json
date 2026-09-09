@@ -1,6 +1,6 @@
 {
-  "version": "0.9.38",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.38/GOAT-Setup-0.9.38.exe",
-  "sha256": "46d0038498a4cc8832582f70c6a4acc7d1c6d6edce8a2ecec6a7615de686dbe9",
-  "notes": "AC telemetry panel: real track map, automatic Virtual Best reference, lap-table legend + selected lap, saved-setup fallback. Includes 0.9.37."
+  "version": "0.9.39",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.39/GOAT-Setup-0.9.39.exe",
+  "sha256": "d167a5afd9535e35c7b4407e47840f49a5aaa7b1de52ed183406041875a437e3",
+  "notes": "Recording stops on its own (out of car, sim closed, SMART gone); SMART tracked across updates; overlay trace fix + official sim icons. Includes 0.9.38."
 }
