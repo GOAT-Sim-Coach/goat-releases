@@ -1,6 +1,6 @@
 {
-  "version": "0.9.25",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.25/GOAT-Setup-0.9.25.exe",
-  "sha256": "562e717c909bcc8567dab987404a05047b17d3ccc4cc7e44b92f103928047e56",
-  "notes": "Highlight clips now cut correctly on a fresh install (clip folder created first; failed cuts stay pending). Plus 0.9.24: community sharing on session open, Garage61 telemetry gating, manual pictures."
+  "version": "0.9.26",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.26/GOAT-Setup-0.9.26.exe",
+  "sha256": "d53250f6224328ba585bcdb3609c544dac2bd8c950e8413513d5655a7dfd0c7d",
+  "notes": "SMART and the Coach reason setup changes by corner phase (entry / mid / exit) and name the cost of every change; recommend first, apply on confirm. Includes 0.9.25 highlight-clip fixes."
 }
