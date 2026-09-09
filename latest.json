@@ -1,6 +1,6 @@
 {
-  "version": "0.9.50",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.50/GOAT-Setup-0.9.50.exe",
-  "sha256": "1370cfff2c076f7d9ed85b3dafd7cf1ef9414e048ddb8e4236e031099824b459",
-  "notes": "Radar redesigned as a warning disc with car blocks at real positions. Includes 0.9.49 (overlay redesign)."
+  "version": "0.9.51",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.51/GOAT-Setup-0.9.51.exe",
+  "sha256": "a6165a5afc03fefdc7aefeafe0d91205742c4db2240a5c3599ecca2cb543ab54",
+  "notes": "Garage61 Pro references now load correctly (speed, pedals, steering, lap time, racing line on the map). Includes 0.9.50 (radar disc) and 0.9.49 (overlay redesign)."
 }
