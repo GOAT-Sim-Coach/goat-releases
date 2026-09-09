@@ -1,6 +1,6 @@
 {
-  "version": "0.9.32",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.32/GOAT-Setup-0.9.32.exe",
-  "sha256": "c4e026403033d7bf70237fb68f000332e3180b78a5a14f4d4fbbb55cdbc51158",
-  "notes": "Clip storage: your own folder on this PC, chosen once, path shown; leftovers deleted automatically. Includes 0.9.31 replay re-recording."
+  "version": "0.9.33",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.33/GOAT-Setup-0.9.33.exe",
+  "sha256": "1e5b81e5bb068e03dc90afa4527735a7cb0e5e3532d991b9f66fca72f0084cc4",
+  "notes": "Red Assetto Corsa emblem. Includes 0.9.32 clip storage policy and 0.9.31 replay re-recording."
 }
