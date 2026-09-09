@@ -1,6 +1,6 @@
 {
-  "version": "0.9.40",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.40/GOAT-Setup-0.9.40.exe",
-  "sha256": "3608efc2957d1e2173db1c5db3bb6ebf35f3590a69958fc3f790b712f6b92ac5",
-  "notes": "SMART responds faster: instant Copy, first clause spoken early, quicker end-of-speech. Includes 0.9.39."
+  "version": "0.9.41",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.41/GOAT-Setup-0.9.41.exe",
+  "sha256": "9198e43380b2fbd684bacd0bbb382def3b686cec8fd67f38aa0095a86dda2a8d",
+  "notes": "SMART voice streams as it is synthesised (about 1 s sooner). Includes 0.9.40."
 }
