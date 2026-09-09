@@ -1,6 +1,6 @@
 {
-  "version": "0.9.30",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.30/GOAT-Setup-0.9.30.exe",
-  "sha256": "4a9264578baab659df27f51dfbd3872fd7b142201a3310564313abfa8279c92d",
-  "notes": "SMART spotter calls: car ahead gone off / stopped, car behind closing fast. Includes 0.9.29."
+  "version": "0.9.31",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.31/GOAT-Setup-0.9.31.exe",
+  "sha256": "a9f92a8f0ef974e0f25954f4c73a8eef1f5cf7bbf2c1c6d549b97c1e851ee978",
+  "notes": "Replay re-recording on iRacing: extra camera angles on your best moments + Produce race highlights (whole-field reel). Includes 0.9.30."
 }
