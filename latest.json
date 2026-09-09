@@ -1,6 +1,6 @@
 {
-  "version": "0.9.28",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.28/GOAT-Setup-0.9.28.exe",
-  "sha256": "8923a17604f746c656cd50830ff6fcbecf3fb42890c8ecaf8739b21ba997a852",
-  "notes": "SMART panel: Auto feedback / On demand buttons; rounded corners on every overlay. Includes 0.9.27 driver style profile."
+  "version": "0.9.29",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.29/GOAT-Setup-0.9.29.exe",
+  "sha256": "fb209edc323fb6b608a0ac842561f10d607d20fec17d0596cfd8a91cceb6fefb",
+  "notes": "SMART On demand keeps alerts (flags, offs, fuel, session) and answers; holds feedback only. Includes 0.9.28 talk-mode buttons + rounded overlays."
 }
