@@ -1,6 +1,6 @@
 {
-  "version": "0.9.51",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.51/GOAT-Setup-0.9.51.exe",
-  "sha256": "a6165a5afc03fefdc7aefeafe0d91205742c4db2240a5c3599ecca2cb543ab54",
-  "notes": "Garage61 Pro references now load correctly (speed, pedals, steering, lap time, racing line on the map). Includes 0.9.50 (radar disc) and 0.9.49 (overlay redesign)."
+  "version": "0.9.52",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.52/GOAT-Setup-0.9.52.exe",
+  "sha256": "ebb390b8fcf87ef5386c08726977221947ad0e699acff9de7e1a4a0ed91471d7",
+  "notes": "New GOAT Telemetry view: the corner-framed map with the coaching note, and throttle/brake underneath with tick boxes. Includes 0.9.51 (Garage61 Pro), 0.9.50 (radar disc), 0.9.49 (overlay redesign)."
 }
