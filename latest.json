@@ -1,6 +1,6 @@
 {
-  "version": "0.9.53",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.53/GOAT-Setup-0.9.53.exe",
-  "sha256": "bb088af3b397adcc4ccdfb6e58f5584dd75937e6baed9d8fe31120f3d088dcae",
-  "notes": "SMART and the Coach follow a race-engineer method (evidence first, one change, trade-offs, honest confidence); the overlay's traces are anti-aliased. Includes 0.9.52 (GOAT Telemetry view)."
+  "version": "0.9.54",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.54/GOAT-Setup-0.9.54.exe",
+  "sha256": "e7fb036778235ff0c9ae68045e312ff3c83d1937a5b76cabc98c2f8a5a1639d0",
+  "notes": "PRO GOAT Layout corner view for paid plans: the corner with key points, session performance and driving tips, a tabbed chart and live inputs on one cursor. Includes 0.9.53."
 }
