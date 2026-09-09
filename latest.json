@@ -1,6 +1,6 @@
 {
-  "version": "0.9.42",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.42/GOAT-Setup-0.9.42.exe",
-  "sha256": "4f53c9e6be7512929c5509d1227b83f3f8ef9ff3fb9d535d5cc78847adacdec3",
-  "notes": "Highlights: lost-clips fix, black clips discarded, filed by the sim you drove. Telemetry panel: Garage61 references validated, faster reference list, sortable lap table, delta chart explained."
+  "version": "0.9.43",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.43/GOAT-Setup-0.9.43.exe",
+  "sha256": "2a4602164a3c65f077b7ad7883531ee57574b479f09a1f00f8be750814ffa64b",
+  "notes": "Recording is now started from the Highlights panel and stops by itself only when you leave the sim; Process my highlights and race highlights are on-demand buttons; a Manual/Auto switch keeps the old automatic behaviour available. Includes 0.9.42."
 }
