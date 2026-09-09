@@ -1,6 +1,6 @@
 {
-  "version": "0.9.31",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.31/GOAT-Setup-0.9.31.exe",
-  "sha256": "a9f92a8f0ef974e0f25954f4c73a8eef1f5cf7bbf2c1c6d549b97c1e851ee978",
-  "notes": "Replay re-recording on iRacing: extra camera angles on your best moments + Produce race highlights (whole-field reel). Includes 0.9.30."
+  "version": "0.9.32",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.32/GOAT-Setup-0.9.32.exe",
+  "sha256": "c4e026403033d7bf70237fb68f000332e3180b78a5a14f4d4fbbb55cdbc51158",
+  "notes": "Clip storage: your own folder on this PC, chosen once, path shown; leftovers deleted automatically. Includes 0.9.31 replay re-recording."
 }
