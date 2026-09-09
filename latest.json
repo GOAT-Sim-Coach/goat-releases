@@ -1,6 +1,6 @@
 {
-  "version": "0.9.47",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.47/GOAT-Setup-0.9.47.exe",
-  "sha256": "3032864630265529e9b8fdc777cf91b572c6c68ab1883f286d0656d2861abfd6",
-  "notes": "Chart toolbars show only + and - zoom. Includes 0.9.46 (dashboard window + other devices via QR), 0.9.45 (language button), 0.9.44 (GOAT en espanol)."
+  "version": "0.9.48",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.48/GOAT-Setup-0.9.48.exe",
+  "sha256": "3b4aa98781f16ca074893730f033cac1dcc0463250382dcd27f97013200d2407",
+  "notes": "Lap trace you can read at a glance: reference lines as a ghost band with dashed core, speed and pedals in two panels, Reference/Driver legend rows, one zero in the corner. Includes 0.9.47."
 }
