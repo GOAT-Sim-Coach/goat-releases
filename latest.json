@@ -1,6 +1,6 @@
 {
-  "version": "0.9.56",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.56/GOAT-Setup-0.9.56.exe",
-  "sha256": "95e1ddcf31343ab44552ffca8262ada3aa81390184058059d0efc6e33cc9c907",
-  "notes": "PRO GOAT Layout: the real track from above (satellite imagery under your racing lines on iRacing sessions, through GOAT's own server for paid accounts). Includes 0.9.55."
+  "version": "0.9.57",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.57/GOAT-Setup-0.9.57.exe",
+  "sha256": "3b57ce1266453ac8bdf7d7c78dc40359e2c5b45c3d87cdf2649c28a9459e5795",
+  "notes": "PRO GOAT Layout: satellite imagery of the real circuit is live for paid accounts (iRacing sessions), imagery covers the whole map and follows + / - zoom; amber turn links. Includes 0.9.56."
 }
