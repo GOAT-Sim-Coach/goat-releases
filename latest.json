@@ -1,6 +1,6 @@
 {
-  "version": "0.9.33",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.33/GOAT-Setup-0.9.33.exe",
-  "sha256": "1e5b81e5bb068e03dc90afa4527735a7cb0e5e3532d991b9f66fca72f0084cc4",
-  "notes": "Red Assetto Corsa emblem. Includes 0.9.32 clip storage policy and 0.9.31 replay re-recording."
+  "version": "0.9.34",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.34/GOAT-Setup-0.9.34.exe",
+  "sha256": "8c26983cd6b1ca1c5fee8c6a42edcab269eea539e09531a1b304b70ce37bb14a",
+  "notes": "Conservative fuel model for lap and timed races (worst burn +3%, a lap in reserve, flag lap after the clock). Includes 0.9.33."
 }
