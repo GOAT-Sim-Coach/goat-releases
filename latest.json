@@ -1,6 +1,6 @@
 {
-  "version": "0.9.52",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.52/GOAT-Setup-0.9.52.exe",
-  "sha256": "ebb390b8fcf87ef5386c08726977221947ad0e699acff9de7e1a4a0ed91471d7",
-  "notes": "New GOAT Telemetry view: the corner-framed map with the coaching note, and throttle/brake underneath with tick boxes. Includes 0.9.51 (Garage61 Pro), 0.9.50 (radar disc), 0.9.49 (overlay redesign)."
+  "version": "0.9.53",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.53/GOAT-Setup-0.9.53.exe",
+  "sha256": "bb088af3b397adcc4ccdfb6e58f5584dd75937e6baed9d8fe31120f3d088dcae",
+  "notes": "SMART and the Coach follow a race-engineer method (evidence first, one change, trade-offs, honest confidence); the overlay's traces are anti-aliased. Includes 0.9.52 (GOAT Telemetry view)."
 }
