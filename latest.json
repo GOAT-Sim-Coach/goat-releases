@@ -1,6 +1,6 @@
 {
   "version": "0.9.25",
   "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.25/GOAT-Setup-0.9.25.exe",
-  "sha256": "c2525b6f953d7c0b3d4dc5db1ea21472b8a5528e2a4b4c7266a5196d85b9eba7",
+  "sha256": "562e717c909bcc8567dab987404a05047b17d3ccc4cc7e44b92f103928047e56",
   "notes": "Highlight clips now cut correctly on a fresh install (clip folder created first; failed cuts stay pending). Plus 0.9.24: community sharing on session open, Garage61 telemetry gating, manual pictures."
 }
