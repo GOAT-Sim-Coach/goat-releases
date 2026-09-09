@@ -1,6 +1,6 @@
 {
-  "version": "0.9.41",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.41/GOAT-Setup-0.9.41.exe",
-  "sha256": "9198e43380b2fbd684bacd0bbb382def3b686cec8fd67f38aa0095a86dda2a8d",
-  "notes": "SMART voice streams as it is synthesised (about 1 s sooner). Includes 0.9.40."
+  "version": "0.9.42",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.42/GOAT-Setup-0.9.42.exe",
+  "sha256": "4f53c9e6be7512929c5509d1227b83f3f8ef9ff3fb9d535d5cc78847adacdec3",
+  "notes": "Highlights: lost-clips fix, black clips discarded, filed by the sim you drove. Telemetry panel: Garage61 references validated, faster reference list, sortable lap table, delta chart explained."
 }
