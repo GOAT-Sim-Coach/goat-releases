@@ -1,6 +1,6 @@
 {
-  "version": "0.9.44",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.44/GOAT-Setup-0.9.44.exe",
-  "sha256": "8867d1eef6a4e66df6c865190630263f051ace4ec8b50f05257c35dc13d229af",
-  "notes": "GOAT en espanol: language picked by location on first start (Spanish-speaking country -> Spanish), EN|ES switch in the header, SMART speaks and listens in Spanish. Includes 0.9.43."
+  "version": "0.9.45",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.45/GOAT-Setup-0.9.45.exe",
+  "sha256": "d143d9f9a5e1cb1da490ea2746e51e61f47c8f133e89c01a69db3ea3aa1ddbfb",
+  "notes": "Language button in the header (English / Espanol, one click switches). GOAT en espanol: language picked by location on first start, SMART speaks and listens in Spanish. Includes 0.9.44."
 }
