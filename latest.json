@@ -1,6 +1,6 @@
 {
-  "version": "0.9.67",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.67/GOAT-Setup-0.9.67.exe",
-  "sha256": "b1448343355d8bd027f3516ce49385a04ff9d2a9fdd34f10445e193f02371fd4",
-  "notes": "Recordings no longer come out black (OBS display capture repaired, per-sim window capture, live capture warning); a new personal best is a highlight; menus don't stop recordings; overlays no longer close on Escape; ACC radar mirror fixed. Includes 0.9.66."
+  "version": "0.9.68",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.68/GOAT-Setup-0.9.68.exe",
+  "sha256": "59c96d2666da11d1b5bc09e3f3713b707c5e4cdb138f60a5dfe8663606f36e68",
+  "notes": "ACC names and gaps via the Broadcasting SDK; radar hides while driving and fades in only when a car is close; SMART answers about two seconds faster and knows who's around you, tyre pressures, pad life and time left. Includes 0.9.67."
 }
