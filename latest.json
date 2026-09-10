@@ -1,6 +1,6 @@
 {
-  "version": "0.9.69",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.69/GOAT-Setup-0.9.69.exe",
-  "sha256": "1a62f27807556b542444d657fb8b2ab23cfcdb69724f0ae1d418c7433d4db986",
-  "notes": "SMART calls your braking points by corner against your own best lap; overlays keep their positions (each window now saves only its own settings); fuel readout in plain words (OK to the end / SHORT n - BOX); ACC telemetry is a car-setup value - one click sets it in your saved setups."
+  "version": "0.9.70",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.70/GOAT-Setup-0.9.70.exe",
+  "sha256": "0ce93acdb1097171a3c4c8186ba37975e385281f5138f86edf0d9bd782631058",
+  "notes": "Radar resizes (grip pad + mouse wheel anywhere over it); the CHANNELS picker (speed, steering, gear, you vs reference) shows at rest and opens on right-click. Includes 0.9.69: SMART braking points by corner, overlays keep their positions, plain-words fuel readout."
 }
