@@ -1,6 +1,6 @@
 {
-  "version": "0.9.72",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.72/GOAT-Setup-0.9.72.exe",
-  "sha256": "63db4c16932449b15e7edfdb8c023bab92c77a7a95e8d6263e39c9eea2e26d89",
-  "notes": "Corner tree: race lights (MARKS/APEX/GAS), overall, time per corner and a consistency-or-line diagnosis for every corner, all against your own laps, in GOAT Telemetry and the debrief. ACC MoTeC files now trace and build a Virtual Best."
+  "version": "0.9.73",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.73/GOAT-Setup-0.9.73.exe",
+  "sha256": "e6299e2ead05ba9b8fdc694721230fe8af3cf18ef4779ed6c4460c9f8b4066fa",
+  "notes": "Corner tree live: MARKS/APEX/GAS lights on the overlay after every corner, SMART one sentence per lap in practice, a Corners card on the Engineer Dashboard, computed suggestions and cross-session habits, coach read_corner_tree. Includes 0.9.72."
 }
