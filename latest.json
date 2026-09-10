@@ -1,6 +1,6 @@
 {
-  "version": "0.9.59",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.59/GOAT-Setup-0.9.59.exe",
-  "sha256": "ee892386e1ce8ddab085c3952101f12f1c3ff21750ada6e6de9eb546f051da07",
-  "notes": "Corner maps open 3x closer and centred on the corner itself (GOAT Telemetry and PRO GOAT); the pinned note stays clear of the map's edges. Includes 0.9.58."
+  "version": "0.9.60",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.60/GOAT-Setup-0.9.60.exe",
+  "sha256": "db9340444d6fd9ba67ba61e5300837ee4c825df875ecd8cbc28ff64e31549a40",
+  "notes": "Corner maps open 3x closer and centred on the corner (GOAT Telemetry and PRO GOAT); the pinned coaching note always stays inside the map. Includes 0.9.59."
 }
