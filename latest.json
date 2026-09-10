@@ -1,6 +1,6 @@
 {
-  "version": "0.9.70",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.70/GOAT-Setup-0.9.70.exe",
-  "sha256": "0ce93acdb1097171a3c4c8186ba37975e385281f5138f86edf0d9bd782631058",
-  "notes": "Radar resizes (grip pad + mouse wheel anywhere over it); the CHANNELS picker (speed, steering, gear, you vs reference) shows at rest and opens on right-click. Includes 0.9.69: SMART braking points by corner, overlays keep their positions, plain-words fuel readout."
+  "version": "0.9.71",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.71/GOAT-Setup-0.9.71.exe",
+  "sha256": "e0b7fa817222ce17a463f1b50b4baa4fb6cb38e33dc890f2e53bf07273ff4665",
+  "notes": "New ⚙ button on the telemetry overlay: choose the reference lap - Auto, Virtual Best, fastest recorded lap, best clean lap this session, or none. Includes 0.9.70 (radar resize, channel picker) and 0.9.69 (SMART braking points, overlay positions, fuel readout)."
 }
