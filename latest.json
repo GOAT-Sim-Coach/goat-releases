@@ -1,6 +1,6 @@
 {
-  "version": "0.9.68",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.68/GOAT-Setup-0.9.68.exe",
-  "sha256": "59c96d2666da11d1b5bc09e3f3713b707c5e4cdb138f60a5dfe8663606f36e68",
-  "notes": "ACC names and gaps via the Broadcasting SDK; radar hides while driving and fades in only when a car is close; SMART answers about two seconds faster and knows who's around you, tyre pressures, pad life and time left. Includes 0.9.67."
+  "version": "0.9.69",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.69/GOAT-Setup-0.9.69.exe",
+  "sha256": "1a62f27807556b542444d657fb8b2ab23cfcdb69724f0ae1d418c7433d4db986",
+  "notes": "SMART calls your braking points by corner against your own best lap; overlays keep their positions (each window now saves only its own settings); fuel readout in plain words (OK to the end / SHORT n - BOX); ACC telemetry is a car-setup value - one click sets it in your saved setups."
 }
