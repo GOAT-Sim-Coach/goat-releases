@@ -1,6 +1,6 @@
 {
-  "version": "0.9.61",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.61/GOAT-Setup-0.9.61.exe",
-  "sha256": "c4c58a8adaaf0f17dda96e3828e3900b104fbb368b5e3d85f3059d198b294db3",
-  "notes": "Faster updates: the updater now drops a slow download connection and resumes from where it was. Includes 0.9.60 (corner maps 3x closer, note always in view)."
+  "version": "0.9.62",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.62/GOAT-Setup-0.9.62.exe",
+  "sha256": "e8e18a1fe401472534bc53c1d4f7107bcda840601f7bb4a94e5a6f6076e5bd04",
+  "notes": "GOAT Telemetry: 'follow driver' keeps the car centred on the map as you move along the lap; new layout with lap times on the left and the map over the throttle & brake chart on the right. Includes 0.9.61 (faster updates)."
 }
