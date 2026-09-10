@@ -1,6 +1,6 @@
 {
-  "version": "0.9.58",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.58/GOAT-Setup-0.9.58.exe",
-  "sha256": "c288ba162730cf311d425e2cf5bd06a15bf40b7ef87d46b154841d35401c0d67",
-  "notes": "Accounts, AI coaching through your account, cloud backup, Help and the PRO map's real-track imagery now work from an installed GOAT (the app talks to the GOAT server that is live today). Includes 0.9.57."
+  "version": "0.9.59",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.59/GOAT-Setup-0.9.59.exe",
+  "sha256": "ee892386e1ce8ddab085c3952101f12f1c3ff21750ada6e6de9eb546f051da07",
+  "notes": "Corner maps open 3x closer and centred on the corner itself (GOAT Telemetry and PRO GOAT); the pinned note stays clear of the map's edges. Includes 0.9.58."
 }
