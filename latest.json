@@ -1,6 +1,6 @@
 {
-  "version": "0.9.64",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.64/GOAT-Setup-0.9.64.exe",
-  "sha256": "ac64e32987d4daa997d5056155254742f2ffa90dae8b25256fc23bab831c437d",
-  "notes": "Highlights library shows a clip whose file is gone as 'file missing' instead of a player that can't play. Includes 0.9.63 (historic circuits), 0.9.62 (follow driver, new layout) and 0.9.61 (faster updates)."
+  "version": "0.9.65",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.65/GOAT-Setup-0.9.65.exe",
+  "sha256": "e7744b20c5da0c212d730c6d7bfd0b0e1441ece22e2ffde2612e015cfa09abdf",
+  "notes": "ACC: Telemetry and Radar overlays; the moment watcher no longer crashes on ACC; sitting in the AC/ACC menus no longer stops the recording. Includes 0.9.64."
 }
