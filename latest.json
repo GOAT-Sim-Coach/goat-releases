@@ -1,6 +1,6 @@
 {
-  "version": "0.9.62",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.62/GOAT-Setup-0.9.62.exe",
-  "sha256": "e8e18a1fe401472534bc53c1d4f7107bcda840601f7bb4a94e5a6f6076e5bd04",
-  "notes": "GOAT Telemetry: 'follow driver' keeps the car centred on the map as you move along the lap; new layout with lap times on the left and the map over the throttle & brake chart on the right. Includes 0.9.61 (faster updates)."
+  "version": "0.9.63",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.63/GOAT-Setup-0.9.63.exe",
+  "sha256": "dc4cc0a5d9624c47eab36defacdbcee89db8fd51cbd6c608193afb824eef801a",
+  "notes": "PRO map keeps the road ribbon on circuits that no longer exist (Oran Park is a housing estate) and says why. Includes 0.9.62 (follow driver, new GOAT Telemetry layout) and 0.9.61 (faster updates)."
 }
