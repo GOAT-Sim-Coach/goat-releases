@@ -1,6 +1,6 @@
 {
-  "version": "0.9.83",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.83/GOAT-Setup-0.9.83.exe",
-  "sha256": "2cb3ed5dd7e4f82505f7aaa3f3a319788009654f94d65759feca0d16b82969a3",
-  "notes": "Pit Box overlay (queued pit service + GOAT fuel/tyre plan, iRacing can queue it), magnetic overlay edges, radar rejoin crash fix, SMART best-lap and strategy fixes, voice output device. Includes 0.9.82."
+  "version": "0.9.84",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.84/GOAT-Setup-0.9.84.exe",
+  "sha256": "4d7349eed51f5078e574774456a260fc65684656fd4fafccd41c64c500b6ac8d",
+  "notes": "Relative gap now same-track-position (laps dropped, +1L tag), SMART panel line spacing, Highlights Process/Discard buttons in GOAT style. Includes 0.9.83 (Pit Box, magnetic edges)."
 }
