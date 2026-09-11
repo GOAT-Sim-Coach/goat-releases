@@ -1,6 +1,6 @@
 {
-  "version": "0.9.81",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.81/GOAT-Setup-0.9.81.exe",
-  "sha256": "484d2090e043ca7d8063513ae6fb0e087e23c12520fbc9911672ebbce0217e90",
-  "notes": "SMART speaks the strategy ahead of time (pit window open/closing, save fuel, fuel ok, tyre floor) once per change; opt-in UDP event feed for motion/haptic/LED rigs. Includes 0.9.80 Rivals."
+  "version": "0.9.82",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.82/GOAT-Setup-0.9.82.exe",
+  "sha256": "1ae29779e80ee6de0a21bf322df432978aa4b0f9901e7701282c4233b125a74f",
+  "notes": "Start and stop every overlay (SMART, REL, RADAR, MIRROR, TYRES, LIGHTS) from the telemetry overlay title bar. Includes 0.9.81."
 }
