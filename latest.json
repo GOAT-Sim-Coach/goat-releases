@@ -1,6 +1,6 @@
 {
-  "version": "0.9.75",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.75/GOAT-Setup-0.9.75.exe",
-  "sha256": "11c8597fcbf494883219ea8c675a8a2c4cfa18a54bcefdbba329e0f7b51f94c2",
-  "notes": "The Engineer Dashboard opens as its own Windows window: drag it to your second monitor, F11 full screen, position remembered. Includes 0.9.74 and the Corner tree."
+  "version": "0.9.76",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.76/GOAT-Setup-0.9.76.exe",
+  "sha256": "04a963f5fb78f94065ca09cca1584e91e90455c47e140095789504a2e90da485",
+  "notes": "Radar and Relative overlays fixed (crashed on launch since 0.9.68); Dashboard menu: own window / browser / phone QR; bigger overlay title bar and text; SMART panel +30 %; best-lap column in Relative."
 }
