@@ -1,6 +1,6 @@
 {
-  "version": "0.9.87",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.87/GOAT-Setup-0.9.87.exe",
-  "sha256": "3412077869932068b5bdc3c71fb64f53b56c228cbc690e4a9043f09bff6a7551",
-  "notes": "Highlights library: tick several clips and delete or move them together; GOAT ring mark next to the app name. Includes 0.9.86."
+  "version": "0.9.88",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.88/GOAT-Setup-0.9.88.exe",
+  "sha256": "8c066b3b3ef597d19e59eb5f50b5b213c83cf8150508381ab8b98e98b08a9531",
+  "notes": "Start recording no longer fails with Internal Server Error while OBS is still booting; OBS problems show as a plain message."
 }
