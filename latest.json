@@ -1,6 +1,6 @@
 {
-  "version": "0.9.93",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.93/GOAT-Setup-0.9.93.exe",
-  "sha256": "d4dc2afa068b2fe4f624c6a7397bcf4ce9f62b2cb327f517362b703042e1374d",
-  "notes": "Highlights fixed properly: one video per session, explicit Record camera angles step with reasons, library adopts forgotten clips, clip trash instead of delete. Includes 0.9.88-0.9.92."
+  "version": "0.9.94",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.94/GOAT-Setup-0.9.94.exe",
+  "sha256": "a4388df44308eadf0c498161ab72a302cc6d909d11fa271ffba3ebd204d9a3d1",
+  "notes": "SMART conversation flow: real end-of-speech detection, instant radio checks, faster transcription, follow-up memory. Includes 0.9.88-0.9.93."
 }
