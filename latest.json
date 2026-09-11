@@ -1,6 +1,6 @@
 {
-  "version": "0.9.85",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.85/GOAT-Setup-0.9.85.exe",
-  "sha256": "76a8766d2cb222203aafccff05c7c2f915294ca06daeb96a965c5b82bdd4866c",
-  "notes": "SMART builds a live reference from your first clean lap (delta, braking calls, corner lights without a Virtual Best), own lap memory, off-track cause; radar range 3 s; short join address for laptops; highlights progress bar; clip-sweep safety fix. Includes 0.9.84."
+  "version": "0.9.86",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.86/GOAT-Setup-0.9.86.exe",
+  "sha256": "a0eb5fc7c7d37e2a0ff7ec1db7a6929b498f8229de40519571c1984fb2680f91",
+  "notes": "Closing or updating GOAT now closes every overlay, SMART and the dashboard window, including overlays started from the telemetry overlay. Includes 0.9.85."
 }
