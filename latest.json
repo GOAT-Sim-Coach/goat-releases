@@ -1,6 +1,6 @@
 {
-  "version": "0.9.86",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.86/GOAT-Setup-0.9.86.exe",
-  "sha256": "a0eb5fc7c7d37e2a0ff7ec1db7a6929b498f8229de40519571c1984fb2680f91",
-  "notes": "Closing or updating GOAT now closes every overlay, SMART and the dashboard window, including overlays started from the telemetry overlay. Includes 0.9.85."
+  "version": "0.9.87",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.87/GOAT-Setup-0.9.87.exe",
+  "sha256": "3412077869932068b5bdc3c71fb64f53b56c228cbc690e4a9043f09bff6a7551",
+  "notes": "Highlights library: tick several clips and delete or move them together; GOAT ring mark next to the app name. Includes 0.9.86."
 }
