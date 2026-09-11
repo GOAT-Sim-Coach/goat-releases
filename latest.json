@@ -1,6 +1,6 @@
 {
-  "version": "0.9.80",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.80/GOAT-Setup-0.9.80.exe",
-  "sha256": "1c530cd940fd964401744402d813163c9d1cb66afa32b9dda379d1c582aba114",
-  "notes": "Rivals: GOAT records every car in your sessions and compares each rival best lap with your reference corner by corner (where they brake later, power earlier, line differences). All three sims, own code. Includes 0.9.79 Corner Lights."
+  "version": "0.9.81",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.81/GOAT-Setup-0.9.81.exe",
+  "sha256": "484d2090e043ca7d8063513ae6fb0e087e23c12520fbc9911672ebbce0217e90",
+  "notes": "SMART speaks the strategy ahead of time (pit window open/closing, save fuel, fuel ok, tyre floor) once per change; opt-in UDP event feed for motion/haptic/LED rigs. Includes 0.9.80 Rivals."
 }
