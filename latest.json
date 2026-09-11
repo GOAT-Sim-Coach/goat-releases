@@ -1,6 +1,6 @@
 {
-  "version": "0.9.78",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.78/GOAT-Setup-0.9.78.exe",
-  "sha256": "bc855bea39b1098b53df3fb2eea4f6bd21364892390c53692671a5129e4790ba",
-  "notes": "Companion app (your debriefs and PBs, anywhere) and the live dashboard on another screen (same Wi-Fi) are now clearly two different things in the app. Includes 0.9.77."
+  "version": "0.9.79",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.79/GOAT-Setup-0.9.79.exe",
+  "sha256": "18695fabad4329c50d72331b2c70c320ec49b86964370b3fab386a3406255117",
+  "notes": "Corner Lights overlay for the race: T1..Tx with B/A/G dots (and S for tyre slip on AC/ACC), the corner coloured by this lap, ! where you are inconsistent. Includes 0.9.78."
 }
