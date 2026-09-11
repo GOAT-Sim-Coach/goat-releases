@@ -1,6 +1,6 @@
 {
-  "version": "0.9.76",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.76/GOAT-Setup-0.9.76.exe",
-  "sha256": "04a963f5fb78f94065ca09cca1584e91e90455c47e140095789504a2e90da485",
-  "notes": "Radar and Relative overlays fixed (crashed on launch since 0.9.68); Dashboard menu: own window / browser / phone QR; bigger overlay title bar and text; SMART panel +30 %; best-lap column in Relative."
+  "version": "0.9.77",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.77/GOAT-Setup-0.9.77.exe",
+  "sha256": "aa58f6577c5db1db9724cf66673924c028d2006938e8bb185ffd607655f153f5",
+  "notes": "SMART panel text and buttons sized below the title; radar draws a solid panel whenever not driving so the waiting text is readable. Includes 0.9.76."
 }
