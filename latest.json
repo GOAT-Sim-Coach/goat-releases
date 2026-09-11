@@ -1,6 +1,6 @@
 {
-  "version": "0.9.73",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.73/GOAT-Setup-0.9.73.exe",
-  "sha256": "e6299e2ead05ba9b8fdc694721230fe8af3cf18ef4779ed6c4460c9f8b4066fa",
-  "notes": "Corner tree live: MARKS/APEX/GAS lights on the overlay after every corner, SMART one sentence per lap in practice, a Corners card on the Engineer Dashboard, computed suggestions and cross-session habits, coach read_corner_tree. Includes 0.9.72."
+  "version": "0.9.74",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.74/GOAT-Setup-0.9.74.exe",
+  "sha256": "f5cb97fc0e96ed9c864fbb1759cd0aafe42d3ead1919a534cd66ac904a242ccf",
+  "notes": "Replay harness tests the live corner lights and SMART sentence from recorded laps (three real fixes from its first run); ACC sessions show speed over the lap instead of an empty map; Spanish corner text. Includes 0.9.73 and 0.9.72."
 }
