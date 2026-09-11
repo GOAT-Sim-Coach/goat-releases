@@ -1,6 +1,6 @@
 {
-  "version": "0.9.95",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.95/GOAT-Setup-0.9.95.exe",
-  "sha256": "924131d37cd6498fb685a0d23904df2512f51e67ecb501b0a252afe0a78f387a",
-  "notes": "Recording framed to your forward view on triple/ultrawide rigs, Preview capture button, own moments only, contact/spin detection, camera plan per moment. Includes 0.9.88-0.9.94."
+  "version": "0.9.96",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.96/GOAT-Setup-0.9.96.exe",
+  "sha256": "4a39c58b9b4cadcd52b466364afa67551ed20e249fa6677e17054e4e390c4c33",
+  "notes": "Start recording shows staged progress while OBS launches. Includes 0.9.88-0.9.95 (capture framing, real highlights, SMART conversation flow, one video per session)."
 }
