@@ -1,6 +1,6 @@
 {
-  "version": "0.9.92",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.92/GOAT-Setup-0.9.92.exe",
-  "sha256": "359f0e420b4d2fbc895634047a2d82d6c769b412acae02e5694cf390aac907eb",
-  "notes": "Relative gaps from iRacing's own time-at-position model, radar fallback in real metres, best-lap/gap overlap fixed, Corner Lights scroll to the corner in progress. Includes 0.9.88-0.9.91."
+  "version": "0.9.93",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.93/GOAT-Setup-0.9.93.exe",
+  "sha256": "d4dc2afa068b2fe4f624c6a7397bcf4ce9f62b2cb327f517362b703042e1374d",
+  "notes": "Highlights fixed properly: one video per session, explicit Record camera angles step with reasons, library adopts forgotten clips, clip trash instead of delete. Includes 0.9.88-0.9.92."
 }
