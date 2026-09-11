@@ -1,6 +1,6 @@
 {
-  "version": "0.9.91",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.91/GOAT-Setup-0.9.91.exe",
-  "sha256": "92db201abc26a3728fa0194ddafbc33a5ab970be9e9fb491728c999cb2458bb9",
-  "notes": "SMART no longer crashes a few seconds after speaking (audio library re-init under an open mic). Dashboard sharing link survives restarts. Includes 0.9.88-0.9.90."
+  "version": "0.9.92",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.92/GOAT-Setup-0.9.92.exe",
+  "sha256": "359f0e420b4d2fbc895634047a2d82d6c769b412acae02e5694cf390aac907eb",
+  "notes": "Relative gaps from iRacing's own time-at-position model, radar fallback in real metres, best-lap/gap overlap fixed, Corner Lights scroll to the corner in progress. Includes 0.9.88-0.9.91."
 }
