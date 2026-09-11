@@ -1,6 +1,6 @@
 {
-  "version": "0.9.94",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.94/GOAT-Setup-0.9.94.exe",
-  "sha256": "a4388df44308eadf0c498161ab72a302cc6d909d11fa271ffba3ebd204d9a3d1",
-  "notes": "SMART conversation flow: real end-of-speech detection, instant radio checks, faster transcription, follow-up memory. Includes 0.9.88-0.9.93."
+  "version": "0.9.95",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.95/GOAT-Setup-0.9.95.exe",
+  "sha256": "924131d37cd6498fb685a0d23904df2512f51e67ecb501b0a252afe0a78f387a",
+  "notes": "Recording framed to your forward view on triple/ultrawide rigs, Preview capture button, own moments only, contact/spin detection, camera plan per moment. Includes 0.9.88-0.9.94."
 }
