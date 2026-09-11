@@ -1,6 +1,6 @@
 {
-  "version": "0.9.82",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.82/GOAT-Setup-0.9.82.exe",
-  "sha256": "1ae29779e80ee6de0a21bf322df432978aa4b0f9901e7701282c4233b125a74f",
-  "notes": "Start and stop every overlay (SMART, REL, RADAR, MIRROR, TYRES, LIGHTS) from the telemetry overlay title bar. Includes 0.9.81."
+  "version": "0.9.83",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.83/GOAT-Setup-0.9.83.exe",
+  "sha256": "2cb3ed5dd7e4f82505f7aaa3f3a319788009654f94d65759feca0d16b82969a3",
+  "notes": "Pit Box overlay (queued pit service + GOAT fuel/tyre plan, iRacing can queue it), magnetic overlay edges, radar rejoin crash fix, SMART best-lap and strategy fixes, voice output device. Includes 0.9.82."
 }
