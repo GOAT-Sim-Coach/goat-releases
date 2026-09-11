@@ -1,6 +1,6 @@
 {
-  "version": "0.9.84",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.84/GOAT-Setup-0.9.84.exe",
-  "sha256": "4d7349eed51f5078e574774456a260fc65684656fd4fafccd41c64c500b6ac8d",
-  "notes": "Relative gap now same-track-position (laps dropped, +1L tag), SMART panel line spacing, Highlights Process/Discard buttons in GOAT style. Includes 0.9.83 (Pit Box, magnetic edges)."
+  "version": "0.9.85",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.85/GOAT-Setup-0.9.85.exe",
+  "sha256": "76a8766d2cb222203aafccff05c7c2f915294ca06daeb96a965c5b82bdd4866c",
+  "notes": "SMART builds a live reference from your first clean lap (delta, braking calls, corner lights without a Virtual Best), own lap memory, off-track cause; radar range 3 s; short join address for laptops; highlights progress bar; clip-sweep safety fix. Includes 0.9.84."
 }
