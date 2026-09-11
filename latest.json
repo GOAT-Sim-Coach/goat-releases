@@ -1,6 +1,6 @@
 {
-  "version": "0.9.90",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.90/GOAT-Setup-0.9.90.exe",
-  "sha256": "531a98625f3709c731c54a50e8bc41033783ac3b613e25118b17b82c7e557372",
-  "notes": "SMART speaks again (radio-call log was overwritten since 0.9.85). Includes 0.9.89 overlay buttons and 0.9.88 Start recording fixes."
+  "version": "0.9.91",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.91/GOAT-Setup-0.9.91.exe",
+  "sha256": "92db201abc26a3728fa0194ddafbc33a5ab970be9e9fb491728c999cb2458bb9",
+  "notes": "SMART no longer crashes a few seconds after speaking (audio library re-init under an open mic). Dashboard sharing link survives restarts. Includes 0.9.88-0.9.90."
 }
