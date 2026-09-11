@@ -1,6 +1,6 @@
 {
-  "version": "0.9.79",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.79/GOAT-Setup-0.9.79.exe",
-  "sha256": "18695fabad4329c50d72331b2c70c320ec49b86964370b3fab386a3406255117",
-  "notes": "Corner Lights overlay for the race: T1..Tx with B/A/G dots (and S for tyre slip on AC/ACC), the corner coloured by this lap, ! where you are inconsistent. Includes 0.9.78."
+  "version": "0.9.80",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.80/GOAT-Setup-0.9.80.exe",
+  "sha256": "1c530cd940fd964401744402d813163c9d1cb66afa32b9dda379d1c582aba114",
+  "notes": "Rivals: GOAT records every car in your sessions and compares each rival best lap with your reference corner by corner (where they brake later, power earlier, line differences). All three sims, own code. Includes 0.9.79 Corner Lights."
 }
