@@ -1,6 +1,6 @@
 {
-  "version": "0.9.77",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.77/GOAT-Setup-0.9.77.exe",
-  "sha256": "aa58f6577c5db1db9724cf66673924c028d2006938e8bb185ffd607655f153f5",
-  "notes": "SMART panel text and buttons sized below the title; radar draws a solid panel whenever not driving so the waiting text is readable. Includes 0.9.76."
+  "version": "0.9.78",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.78/GOAT-Setup-0.9.78.exe",
+  "sha256": "bc855bea39b1098b53df3fb2eea4f6bd21364892390c53692671a5129e4790ba",
+  "notes": "Companion app (your debriefs and PBs, anywhere) and the live dashboard on another screen (same Wi-Fi) are now clearly two different things in the app. Includes 0.9.77."
 }
