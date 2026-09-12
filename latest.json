@@ -1,6 +1,6 @@
 {
-  "version": "0.9.97",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.97/GOAT-Setup-0.9.97.exe",
-  "sha256": "2a8b541ed065694f5520d912a1a94193daf2bb9ec4ea538fe0699fbdf02a802c",
-  "notes": "Armed recording (starts on track), auto-restart when OBS stops by itself, Corner Lights flicker fix, SMART race-mode calls tidied, pace car ignored. Includes 0.9.88-0.9.96."
+  "version": "0.9.98",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.98/GOAT-Setup-0.9.98.exe",
+  "sha256": "5e8ff77ee861c3ccc7d990408a095cfa5df980929d6f0101575173fecb4f0323",
+  "notes": "Pit Box text aligned and readable; radar fallback no longer upside down. Includes 0.9.97 (armed recording, OBS auto-restart, Corner Lights flicker, race-mode SMART fixes)."
 }
