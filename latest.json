@@ -1,6 +1,6 @@
 {
-  "version": "0.9.100",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.100/GOAT-Setup-0.9.100.exe",
-  "sha256": "ae071a25b6214204901bb9bf66570a13cf68e75a643a98ef6652bd1dd7d341c0",
-  "notes": "SMART at radio pace: local bundled voice (0.1 s to first sound), Haiku 4.5 for radio answers, smarter end-of-speech. Includes 0.9.97-0.9.99."
+  "version": "0.9.101",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.101/GOAT-Setup-0.9.101.exe",
+  "sha256": "42a607b1ebddbcb0a8d98ec8ace9e12b0c0fb95f959ddb98acde543392c8418e",
+  "notes": "Corners window with a transparent background; duplicate corner dots off the telemetry overlay. Includes 0.9.100 (local voice, Haiku radio answers) and 0.9.97-0.9.99."
 }
