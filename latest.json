@@ -1,6 +1,6 @@
 {
-  "version": "0.9.102",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.102/GOAT-Setup-0.9.102.exe",
-  "sha256": "6f57d9800afa93fb3809f0a81e8b90783f2d7b788d9dca5fe6fec64fdd01f6af",
-  "notes": "Dropped-recording restart runs from the background watchdog too. Includes 0.9.101 (transparent Corners), 0.9.100 (local voice, Haiku radio) and 0.9.97-0.9.99."
+  "version": "0.9.103",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.103/GOAT-Setup-0.9.103.exe",
+  "sha256": "2422c10198d9ae3d0292abca2fce05b5d84b54dcdcc6dc63861a8016fcf8a971",
+  "notes": "The GOAT Skill Ladder: consistency gate, roast my lap, new-track mode, skill stints, corner shape panel, scored drills with a Drill HUD and community board. Fixes the Stint window failing to open."
 }
