@@ -1,6 +1,6 @@
 {
-  "version": "0.9.108",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.108/GOAT-Setup-0.9.108.exe",
-  "sha256": "d4f7bfb4e4643bf1a25ad4f17e8fb952b5dbc1887c6dd79fe5b1c7a0bb4de864",
-  "notes": "Corners window: the incoming corner blinks and the lights grow with the window; sharper mirror (Lanczos + sharpen); SETS menu no longer overlaps its text when empty."
+  "version": "0.9.109",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.109/GOAT-Setup-0.9.109.exe",
+  "sha256": "da1764fb9a344d250e8eecb9e047a8e7656cf70e9a785455f324ab5b260db33b",
+  "notes": "Your session best is saved as a lasting reference for the car and track, so SMART, the overlay and the Corners window start with it on any later day (no more \"no reference for this track\" after the first visit). Restart memory now lasts 6 hours."
 }
