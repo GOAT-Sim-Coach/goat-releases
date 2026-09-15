@@ -1,6 +1,6 @@
 {
-  "version": "0.9.106",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.106/GOAT-Setup-0.9.106.exe",
-  "sha256": "6743d00c7aaba8394ff17145d223004a8e7c9fedbf3c8a37eae2f2e823413c3c",
-  "notes": "Mirror overlay at a smooth 30 fps (was frame-by-frame) with the real rate in its title bar; SMART names the turn behind the worst sector (\"Sector 2, Turn 5\"); overlay menus opaque and readable over the game."
+  "version": "0.9.107",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.107/GOAT-Setup-0.9.107.exe",
+  "sha256": "47fb4f887a4bce9d5ac1c545f0daf11c61d81dfa795058cb8e64ce0e8726ef65",
+  "notes": "APEX light works on Assetto Corsa; Corners window labels readable over the game; overlay SETS presets (save the overlays you have open, reopen them in one click); SMART, the overlay and Corners remember the session across a restart on the same track and car."
 }
