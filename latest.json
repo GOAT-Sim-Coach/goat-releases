@@ -1,6 +1,6 @@
 {
-  "version": "0.9.109",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.109/GOAT-Setup-0.9.109.exe",
-  "sha256": "da1764fb9a344d250e8eecb9e047a8e7656cf70e9a785455f324ab5b260db33b",
-  "notes": "Your session best is saved as a lasting reference for the car and track, so SMART, the overlay and the Corners window start with it on any later day (no more \"no reference for this track\" after the first visit). Restart memory now lasts 6 hours."
+  "version": "0.9.110",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.110/GOAT-Setup-0.9.110.exe",
+  "sha256": "6ec55fe7a02d72cf9318d4cf50ab3099fb42b88f86c2eb4ee54e6e9da0540a20",
+  "notes": "Relative overlay: each driver's best lap in the same mono font as the gap / PIT column."
 }
