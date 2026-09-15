@@ -1,6 +1,6 @@
 {
-  "version": "0.9.116",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.116/GOAT-Setup-0.9.116.exe",
-  "sha256": "ffd922d7c187ac934d4c38fb7c03bcfc8243a80104333e5422188c291212af0b",
-  "notes": "Corners window no longer flashes: the blinking incoming corner flips in place instead of redrawing the window twice a second."
+  "version": "0.9.117",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.117/GOAT-Setup-0.9.117.exe",
+  "sha256": "432235d038808ecd640cd433091a8d83ae8a4ff5d047f0fb83e9f70a0bae9ffb",
+  "notes": "Ghost car on the radar in practice/qualifying with a GHOST button on the overlay; Send logs in Help; flat speed line fixed; clip curation parser fixed; smoother mirror."
 }
