@@ -1,6 +1,6 @@
 {
-  "version": "0.9.120",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.120/GOAT-Setup-0.9.120.exe",
-  "sha256": "94236d73db9dac5187409d41e9e336f5243ec1f83e8d649faaff241c39827ad6",
-  "notes": "GOAT Cam needs nothing enabled: it loads in every Assetto Corsa session by itself, and installing opens its status window on each screen."
+  "version": "0.9.121",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.121/GOAT-Setup-0.9.121.exe",
+  "sha256": "4c0fc31b853adf61c0b13682f7bb252aef362caad3b1a383434f39981b506596",
+  "notes": "Radar on Assetto Corsa: orientation from the sim's own physics (no lag, right in a spin), cars dead-reckoned between feed snapshots, dropouts held instead of flickering."
 }
