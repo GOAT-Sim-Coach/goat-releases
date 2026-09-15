@@ -1,6 +1,6 @@
 {
-  "version": "0.9.110",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.110/GOAT-Setup-0.9.110.exe",
-  "sha256": "6ec55fe7a02d72cf9318d4cf50ab3099fb42b88f86c2eb4ee54e6e9da0540a20",
-  "notes": "Relative overlay: each driver's best lap in the same mono font as the gap / PIT column."
+  "version": "0.9.111",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.111/GOAT-Setup-0.9.111.exe",
+  "sha256": "183e9c1981a22ebd2a7057065f9aa926a1c18ecd614a0296859ae75a5dc1be49",
+  "notes": "Highlights: same-day sessions keep separate videos; overtake clips run through the pass (battle roll 20 s + overtake/overtaken moments); radar cars at real size with a 2 m pad and a 60 ms refresh; delete confirmations are in-place GOAT boxes."
 }
