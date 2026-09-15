@@ -1,6 +1,6 @@
 {
-  "version": "0.9.114",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.114/GOAT-Setup-0.9.114.exe",
-  "sha256": "acfe7bf49e6c1f372032d766d3215eb63d3ff4378d06901ba5511a1cb69021f2",
-  "notes": "Produce race highlights: pick the session; Assetto Corsa / ACC sessions are listed as 'replay not available' (the race reel needs iRacing's replay)."
+  "version": "0.9.115",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.115/GOAT-Setup-0.9.115.exe",
+  "sha256": "846f7b4c95fabd1bbba4079f3c8f9e6b4fab4d32d9986380a506b4daa406c0cb",
+  "notes": "Trim any clip, or extend it by up to 5 s each way, from a trim bar under the player; every new clip carries 5 s of extra footage at each end, saving a trim is instant."
 }
