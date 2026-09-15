@@ -1,6 +1,6 @@
 {
-  "version": "0.9.111",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.111/GOAT-Setup-0.9.111.exe",
-  "sha256": "183e9c1981a22ebd2a7057065f9aa926a1c18ecd614a0296859ae75a5dc1be49",
-  "notes": "Highlights: same-day sessions keep separate videos; overtake clips run through the pass (battle roll 20 s + overtake/overtaken moments); radar cars at real size with a 2 m pad and a 60 ms refresh; delete confirmations are in-place GOAT boxes."
+  "version": "0.9.113",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.113/GOAT-Setup-0.9.113.exe",
+  "sha256": "ed645c121fbd4e56d50d8ca7d095ee9ea60fe2d3fa092c0d7c1678d9b728c0e3",
+  "notes": "A clip that is still playing is never deleted; Select all only selects what you can see and Move asks with the count; taskbar cropped out of the recording; 1440p high-quality recording so overlays are legible in clips."
 }
