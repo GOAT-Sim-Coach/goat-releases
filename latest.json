@@ -1,6 +1,6 @@
 {
-  "version": "0.9.118",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.118/GOAT-Setup-0.9.118.exe",
-  "sha256": "4bb28a477af16d65f0777064de81af9c3ddfe544d4a8111448af754510509724",
-  "notes": "GOAT records its own telemetry on Assetto Corsa and ACC while you drive - no ACTI or MoTeC bridge needed. Every session shows in the Telemetry panel with laps, traces, the track map, a Virtual Best and debriefs."
+  "version": "0.9.119",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.119/GOAT-Setup-0.9.119.exe",
+  "sha256": "96c71240fafd8630c858fdab931ec9208bb6b18532f317c82485745875907091",
+  "notes": "Multi-camera highlights on Assetto Corsa: install GOAT Cam (in-game app, needs Custom Shaders Patch), open the session's replay from the Highlights panel, and Produce race highlights records each moment from TV, helicopter, chase and onboard cameras."
 }
