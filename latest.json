@@ -1,6 +1,6 @@
 {
-  "version": "0.9.123",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.123/GOAT-Setup-0.9.123.exe",
-  "sha256": "636c69576650f16b94fa2c1181d23644076a9e7418c143580e98ced41f64a943",
-  "notes": "SMART reads the tyre temperatures: too much or too little camber, pressure high or low, spoken once with a first change; on Assetto Corsa say 'change it' and it goes into the setup."
+  "version": "0.9.124",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.124/GOAT-Setup-0.9.124.exe",
+  "sha256": "9ea6104338febfa69af0e9d7e06ae790a7ca09d45a364302ca6aeadac052804c",
+  "notes": "Chassis overlay (SUSP): live damper histograms, roll per axle, ride height and balance; SMART reads them and says the first damper, bar or ride-height change - on Assetto Corsa 'change it' writes it to the setup."
 }
