@@ -1,6 +1,6 @@
 {
-  "version": "0.9.104",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.104/GOAT-Setup-0.9.104.exe",
-  "sha256": "e444ce87cd625d42f522e5dad7495143d25371f722b3fdb6c5917038d1e54f7d",
-  "notes": "Telemetry overlay memory leak fixed (it crashed the Windows desktop), BG solid-background button, STINT/DRILL on the overlay bar, no more flashing Corners window, SMART reads the live corner tree and a setup playbook, real AC car/track names, deleting a clip rebuilds the session video."
+  "version": "0.9.105",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.105/GOAT-Setup-0.9.105.exe",
+  "sha256": "57120e36046af6ea9db23d35888f9833696cec609ee1929ec322a4ab32f4b947",
+  "notes": "Telemetry overlay menus readable over the game: the window goes solid while the Reference-lap or CHANNELS menu is open, bigger white text, taller rows. Reminder: the BG button (after DRILL on the overlay's top bar) gives a solid dark background."
 }
