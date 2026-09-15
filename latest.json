@@ -1,6 +1,6 @@
 {
-  "version": "0.9.122",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.122/GOAT-Setup-0.9.122.exe",
-  "sha256": "2f8140232c375c197752a1dd797e011deb5742e7a9dffed96df413f3f7f31ec4",
-  "notes": "Tyre overlay readable while driving: numbers scale with the tile, cells laid out as the car seen from above (left tyres OUTER / MID / INNER), core temperature with pressure and grip beside it."
+  "version": "0.9.123",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.123/GOAT-Setup-0.9.123.exe",
+  "sha256": "636c69576650f16b94fa2c1181d23644076a9e7418c143580e98ced41f64a943",
+  "notes": "SMART reads the tyre temperatures: too much or too little camber, pressure high or low, spoken once with a first change; on Assetto Corsa say 'change it' and it goes into the setup."
 }
