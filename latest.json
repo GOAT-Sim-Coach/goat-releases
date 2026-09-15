@@ -1,6 +1,6 @@
 {
-  "version": "0.9.117",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.117/GOAT-Setup-0.9.117.exe",
-  "sha256": "432235d038808ecd640cd433091a8d83ae8a4ff5d047f0fb83e9f70a0bae9ffb",
-  "notes": "Ghost car on the radar in practice/qualifying with a GHOST button on the overlay; Send logs in Help; flat speed line fixed; clip curation parser fixed; smoother mirror."
+  "version": "0.9.118",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.118/GOAT-Setup-0.9.118.exe",
+  "sha256": "4bb28a477af16d65f0777064de81af9c3ddfe544d4a8111448af754510509724",
+  "notes": "GOAT records its own telemetry on Assetto Corsa and ACC while you drive - no ACTI or MoTeC bridge needed. Every session shows in the Telemetry panel with laps, traces, the track map, a Virtual Best and debriefs."
 }
