@@ -1,6 +1,6 @@
 {
-  "version": "0.9.119",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.119/GOAT-Setup-0.9.119.exe",
-  "sha256": "96c71240fafd8630c858fdab931ec9208bb6b18532f317c82485745875907091",
-  "notes": "Multi-camera highlights on Assetto Corsa: install GOAT Cam (in-game app, needs Custom Shaders Patch), open the session's replay from the Highlights panel, and Produce race highlights records each moment from TV, helicopter, chase and onboard cameras."
+  "version": "0.9.120",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.120/GOAT-Setup-0.9.120.exe",
+  "sha256": "94236d73db9dac5187409d41e9e336f5243ec1f83e8d649faaff241c39827ad6",
+  "notes": "GOAT Cam needs nothing enabled: it loads in every Assetto Corsa session by itself, and installing opens its status window on each screen."
 }
