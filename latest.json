@@ -1,6 +1,6 @@
 {
-  "version": "0.9.113",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.113/GOAT-Setup-0.9.113.exe",
-  "sha256": "ed645c121fbd4e56d50d8ca7d095ee9ea60fe2d3fa092c0d7c1678d9b728c0e3",
-  "notes": "A clip that is still playing is never deleted; Select all only selects what you can see and Move asks with the count; taskbar cropped out of the recording; 1440p high-quality recording so overlays are legible in clips."
+  "version": "0.9.114",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.114/GOAT-Setup-0.9.114.exe",
+  "sha256": "acfe7bf49e6c1f372032d766d3215eb63d3ff4378d06901ba5511a1cb69021f2",
+  "notes": "Produce race highlights: pick the session; Assetto Corsa / ACC sessions are listed as 'replay not available' (the race reel needs iRacing's replay)."
 }
