@@ -1,6 +1,6 @@
 {
-  "version": "0.9.128",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.128/GOAT-Setup-0.9.128.exe",
-  "sha256": "9a7e851217da2db23b63e43fcaebe25e6b0b92d5903d809816cbf003871680b0",
-  "notes": "Community reference laps: follow a shared lap 2 s or 4 s faster than your best, the fastest shared, or your pick from the new leaderboard - the overlay, SMART, Corner Lights and the radar ghost all use it."
+  "version": "0.9.129",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.129/GOAT-Setup-0.9.129.exe",
+  "sha256": "4757fdf4772a867ff6f585f770c7460e66171c47ed33404a9bd0c8d26893c368",
+  "notes": "Reference lap: your own best is the default and can be switched off (No reference); community targets and the leaderboard when you want them."
 }
