@@ -1,6 +1,6 @@
 {
-  "version": "0.9.125",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.125/GOAT-Setup-0.9.125.exe",
-  "sha256": "d4093a34c4f886be1ad87e399a7c069a23ce0951d7a8d59034c339b1b1dd2a74",
-  "notes": "Highlights panel tidied: one Waiting to be processed box with tick boxes - Process my highlights, Produce race highlights and Discard act on what you tick; last session at the top, past sessions folded; no session dropdown."
+  "version": "0.9.126",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.126/GOAT-Setup-0.9.126.exe",
+  "sha256": "eed5f47bebbe6fdb03c985e52c04558b3b607cc28307755f55401e0ddbd82c6f",
+  "notes": "Process my highlights = your clips plus their TV angles: once the session's replay is open GOAT records the angles by itself. Highlights panel: one Waiting to be processed box with tick boxes."
 }
