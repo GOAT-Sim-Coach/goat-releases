@@ -1,6 +1,6 @@
 {
-  "version": "0.9.127",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.127/GOAT-Setup-0.9.127.exe",
-  "sha256": "a4784ceeeb90dc3182410174ac229ddcbb846d293a081de7a58ce6839b8bb760",
-  "notes": "Community sharing on the free plan: each level explained, Advanced by default, Basic and off are paid-plan features; optional name on reference laps; terms and privacy policy v1.1."
+  "version": "0.9.128",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.128/GOAT-Setup-0.9.128.exe",
+  "sha256": "9a7e851217da2db23b63e43fcaebe25e6b0b92d5903d809816cbf003871680b0",
+  "notes": "Community reference laps: follow a shared lap 2 s or 4 s faster than your best, the fastest shared, or your pick from the new leaderboard - the overlay, SMART, Corner Lights and the radar ghost all use it."
 }
