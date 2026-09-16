@@ -1,6 +1,6 @@
 {
-  "version": "0.9.124",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.124/GOAT-Setup-0.9.124.exe",
-  "sha256": "9ea6104338febfa69af0e9d7e06ae790a7ca09d45a364302ca6aeadac052804c",
-  "notes": "Chassis overlay (SUSP): live damper histograms, roll per axle, ride height and balance; SMART reads them and says the first damper, bar or ride-height change - on Assetto Corsa 'change it' writes it to the setup."
+  "version": "0.9.125",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.125/GOAT-Setup-0.9.125.exe",
+  "sha256": "d4093a34c4f886be1ad87e399a7c069a23ce0951d7a8d59034c339b1b1dd2a74",
+  "notes": "Highlights panel tidied: one Waiting to be processed box with tick boxes - Process my highlights, Produce race highlights and Discard act on what you tick; last session at the top, past sessions folded; no session dropdown."
 }
