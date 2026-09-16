@@ -1,6 +1,6 @@
 {
-  "version": "0.9.126",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.126/GOAT-Setup-0.9.126.exe",
-  "sha256": "eed5f47bebbe6fdb03c985e52c04558b3b607cc28307755f55401e0ddbd82c6f",
-  "notes": "Process my highlights = your clips plus their TV angles: once the session's replay is open GOAT records the angles by itself. Highlights panel: one Waiting to be processed box with tick boxes."
+  "version": "0.9.127",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.127/GOAT-Setup-0.9.127.exe",
+  "sha256": "a4784ceeeb90dc3182410174ac229ddcbb846d293a081de7a58ce6839b8bb760",
+  "notes": "Community sharing on the free plan: each level explained, Advanced by default, Basic and off are paid-plan features; optional name on reference laps; terms and privacy policy v1.1."
 }
