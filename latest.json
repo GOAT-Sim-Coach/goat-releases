@@ -1,6 +1,6 @@
 {
-  "version": "0.9.129",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.129/GOAT-Setup-0.9.129.exe",
-  "sha256": "4757fdf4772a867ff6f585f770c7460e66171c47ed33404a9bd0c8d26893c368",
-  "notes": "Reference lap: your own best is the default and can be switched off (No reference); community targets and the leaderboard when you want them."
+  "version": "0.9.130",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.130/GOAT-Setup-0.9.130.exe",
+  "sha256": "9d7729e1dcf3af55b5207ddc867cae75b236ea88f1f509b2561178192c1605c4",
+  "notes": "Highlights panel polish (centred delete confirmation, matching buttons); the engineer dashboard follows the overlay (mirrored tyre tiles, the reference named)."
 }
