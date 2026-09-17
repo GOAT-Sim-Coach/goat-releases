@@ -1,6 +1,6 @@
 {
-  "version": "0.9.134",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.134/GOAT-Setup-0.9.134.exe",
-  "sha256": "1c4f7b4f60e936862ad4d7f755271d7b21dbae2c7be4bc631dba5eeb85419082",
-  "notes": "iRacing radar draws an overlapping car on the side the spotter names; the session list re-reads itself when you leave the sim (Rescan has the refresh icon); PRO GOAT satellite map keeps its tiles and prefetches the whole lap - no black patches."
+  "version": "0.9.135",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.135/GOAT-Setup-0.9.135.exe",
+  "sha256": "5c3bdc2354c6d6cb377df20e6ea0fa5ada26cf79598d1a9dc8b3afc61339f1b6",
+  "notes": "SMART corner coach (approach call, Brake cue, one verdict per corner), turn-taking (interrupt SMART mid-word, instant Copy, no loops), Spanglish, Sonnet for questions; the design pass from the video: whole lap follows the car, bigger PRO inputs card, one Help menu, clearer selected lap, turn arrows on the Corners window."
 }
