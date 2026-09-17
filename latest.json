@@ -1,6 +1,6 @@
 {
-  "version": "0.9.130",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.130/GOAT-Setup-0.9.130.exe",
-  "sha256": "9d7729e1dcf3af55b5207ddc867cae75b236ea88f1f509b2561178192c1605c4",
-  "notes": "Highlights panel polish (centred delete confirmation, matching buttons); the engineer dashboard follows the overlay (mirrored tyre tiles, the reference named)."
+  "version": "0.9.131",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.131/GOAT-Setup-0.9.131.exe",
+  "sha256": "99d5dfdc94c6628735f0788eb59fa7fd0e3a4686ff5467b28bb3828fef8329e6",
+  "notes": "GOAT Points now buy subscription time (Coach and Pro months, 20% off a year); refer a friend for a free month each; Elite defined; streaks; your status badge in the header."
 }
