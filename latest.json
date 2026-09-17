@@ -1,6 +1,6 @@
 {
-  "version": "0.9.132",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.132/GOAT-Setup-0.9.132.exe",
-  "sha256": "03a842e85eacb94141fa9b8f4eeaffcd4c42282eb507641194bd9ce8aa02b2bb",
-  "notes": "Gift codes (months of Coach or Pro from a partner, redeem on the GOAT Points screen); Your idea for GOAT (a year of Pro if we build it) under Request; prices in your currency."
+  "version": "0.9.133",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.133/GOAT-Setup-0.9.133.exe",
+  "sha256": "fba1fec1fd03b3f842d671252e0ad1d1d79777560e989177a38b7597e82c1f52",
+  "notes": "Tyres overlay layout restored and sized by measurement; named overlay SETS; SMART 10 % quicker with a real volume curve; F7 sets the brake-to-mark board; iRacing corners from steering lock trimmed to the circuit's turn count, APEX from apex speed; OBS canvas set before launch (fixes every recording start failing) and a three-strikes guard on OBS self-stops."
 }
