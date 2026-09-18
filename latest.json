@@ -1,6 +1,6 @@
 {
-  "version": "0.9.144",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.144/GOAT-Setup-0.9.144.exe",
-  "sha256": "fbdccad7853ee3e1b1c4ee9c001a064e9c65f1dae72ab0c23e0a9dbaf4892877",
-  "notes": "A reference lap now has to have been driven round the circuit: VIR North's \"fastest lap\" was a 20-second, 414 m fragment of a 3.6 km track, which made every corner read 5 to 11 seconds lost. The circuit's length comes from the sim, not from that one lap. VIR's official turn numbers reach a real session at last. A name shared by two turns is spoken as its number. Plus 0.9.143."
+  "version": "0.9.145",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.145/GOAT-Setup-0.9.145.exe",
+  "sha256": "e2deaabefb63569cc1a3a44243e8318c380f4fff911bf2df3f464421c523a47e",
+  "notes": "An incident now costs its corner, not the whole lap: your Winton race went from one usable lap and no diagnosis at all to three laps, 33 corner samples and all 12 corners diagnosed. SMART says when a corner comes back better, stops saying \"Brake.\" at a corner you already own, and leaves shift points alone during a race. The radar draws a car alongside you on the side it is really on."
 }
