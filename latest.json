@@ -1,6 +1,6 @@
 {
-  "version": "0.9.143",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.143/GOAT-Setup-0.9.143.exe",
-  "sha256": "50d9e64baf389cbd818ea175c0ed74997eb8527a40a1af4c90fd2473248a9831",
-  "notes": "One corner set per circuit: the turn numbers no longer move between the web panel, the Corners window, SMART and a saved reference (Winton 12, VIR its official numbering). SMART speaks with one natural voice for everything, with the lines it repeats every lap prepared in advance. Plain words at coaching level 1, everywhere. TV angles wait until your session recording is closed. Corner Debrief no longer says \"0 m later\". Built from a full review of the 18 September sessions."
+  "version": "0.9.144",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.144/GOAT-Setup-0.9.144.exe",
+  "sha256": "fbdccad7853ee3e1b1c4ee9c001a064e9c65f1dae72ab0c23e0a9dbaf4892877",
+  "notes": "A reference lap now has to have been driven round the circuit: VIR North's \"fastest lap\" was a 20-second, 414 m fragment of a 3.6 km track, which made every corner read 5 to 11 seconds lost. The circuit's length comes from the sim, not from that one lap. VIR's official turn numbers reach a real session at last. A name shared by two turns is spoken as its number. Plus 0.9.143."
 }
