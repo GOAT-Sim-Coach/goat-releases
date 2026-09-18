@@ -1,6 +1,6 @@
 {
-  "version": "0.9.140",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.140/GOAT-Setup-0.9.140.exe",
-  "sha256": "e570e071680341569bca27d27c7ad82ff7073f15c7edafbbf28d0ba2b832c4f6",
-  "notes": "SMART's approach call names the gear you take the corner in (it said the gear before the downshifts). Plus 0.9.139: Corners window in the overlay's exact colours, every corner gets its arrow, the replay notice can be dismissed. And everything from 0.9.136-0.9.138: the floor rule, coach checkboxes + AUTO, Corners keeps last lap's colours with flashing reds on the incoming corner and T colour from the dots, readable Drill window, VIR official numbers, replay prompt + notice, OBS self-stop closed."
+  "version": "0.9.141",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.141/GOAT-Setup-0.9.141.exe",
+  "sha256": "32c72f7d86c7a13a64965ab5dfdff20b693595d2ebe8abeeca2707e17ba68657",
+  "notes": "MIC button on the SMART panel: mute the microphone only, SMART keeps talking. One GOAT at a time: a second GOAT hands over to the running one. Plus 0.9.140 (the right gear in the approach call), 0.9.139 (Corners in the overlay's exact colours, every corner gets its arrow, dismissable replay notice) and 0.9.136-0.9.138 (the floor rule, coach checkboxes + AUTO, Corners keeps last lap's colours with flashing reds, readable Drill window, VIR official numbers, replay prompt + notice, OBS self-stop closed)."
 }
