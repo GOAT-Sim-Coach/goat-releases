@@ -1,6 +1,6 @@
 {
-  "version": "0.9.146",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.146/GOAT-Setup-0.9.146.exe",
-  "sha256": "784e49c1f9cd2d3bd3fad0fa946e161007e82420cd66df7be1fb86ac7750221c",
-  "notes": "The corner you are heading into shows the gear to take it in - and one stray sample can no longer decide that gear (Winton's Turn 3 was being called \"first gear\"). A lap now has a talking budget, so SMART stops arriving in bursts, and the corner costing you most always gets through. It says where your time goes at a circuit before the first lap, from your own past sessions. A corner where something actually happened is drawn as not scored, not as bad technique."
+  "version": "0.9.147",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.147/GOAT-Setup-0.9.147.exe",
+  "sha256": "d8157461a5d0ec018221312872e71477cd6f6120ca00ee000a53a97e5ea75c3f",
+  "notes": "A brake drill that actually works on a circuit: the first corner you brake for sets the target and every lap after is scored in metres. \"Brake to mark\" needed a standing stop, which is why no drill ever seemed to fire, and a drill left armed no longer makes that window deaf to the next one. \"You alright?\" only when the car really stopped, not when you ran wide. A recorded session with no clips keeps its file instead of vanishing. Plus all of 0.9.146."
 }
