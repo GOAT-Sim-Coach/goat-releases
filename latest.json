@@ -1,6 +1,6 @@
 {
-  "version": "0.9.135",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.135/GOAT-Setup-0.9.135.exe",
-  "sha256": "5c3bdc2354c6d6cb377df20e6ea0fa5ada26cf79598d1a9dc8b3afc61339f1b6",
-  "notes": "SMART corner coach (approach call, Brake cue, one verdict per corner), turn-taking (interrupt SMART mid-word, instant Copy, no loops), Spanglish, Sonnet for questions; the design pass from the video: whole lap follows the car, bigger PRO inputs card, one Help menu, clearer selected lap, turn arrows on the Corners window."
+  "version": "0.9.136",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.136/GOAT-Setup-0.9.136.exe",
+  "sha256": "f526b1feb027a39ba91743d93a322008d23eb49b41706fb7d4c98da3f7729428",
+  "notes": "SMART: the mic is open all session and one floor rule decides who speaks (talk over SMART and it stops at once, it waits for you to finish); 'Turn 5, fourth gear'; coach checkboxes + AUTO mode on the SMART panel; natural voice for answers; better Spanish voice; 'You alright?' only after a real incident. Corners window: incoming corner on the middle line, real arrows, three colours. Drill window readable with a what-to-change line; several drills at once. VIR official turn numbers. Classic trace under the Corner Debrief cards. The 'OBS stopped by itself' recordings explained and closed; a stopped recording keeps its file. PRO map no longer keeps tiles from the previous session."
 }
