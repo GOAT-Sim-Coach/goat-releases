@@ -1,6 +1,6 @@
 {
-  "version": "0.9.141",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.141/GOAT-Setup-0.9.141.exe",
-  "sha256": "32c72f7d86c7a13a64965ab5dfdff20b693595d2ebe8abeeca2707e17ba68657",
-  "notes": "MIC button on the SMART panel: mute the microphone only, SMART keeps talking. One GOAT at a time: a second GOAT hands over to the running one. Plus 0.9.140 (the right gear in the approach call), 0.9.139 (Corners in the overlay's exact colours, every corner gets its arrow, dismissable replay notice) and 0.9.136-0.9.138 (the floor rule, coach checkboxes + AUTO, Corners keeps last lap's colours with flashing reds, readable Drill window, VIR official numbers, replay prompt + notice, OBS self-stop closed)."
+  "version": "0.9.142",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.142/GOAT-Setup-0.9.142.exe",
+  "sha256": "b78416392a10271a7306347e6feaed13c854727b81e09c0c5882ac362ff88a82",
+  "notes": "SMART coaching level (plain words, no numbers, for a driver from zero; smart_level 2/3 for more). A stopped lap can no longer become the reference. Moments logged once. Highlights list newest first. The now line in the middle of the telemetry graph. Radar diagnostics. Plus 0.9.141 (MIC button, one GOAT at a time), 0.9.140 (the right gear in the approach call), 0.9.139-0.9.136."
 }
