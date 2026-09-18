@@ -1,6 +1,6 @@
 {
-  "version": "0.9.142",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.142/GOAT-Setup-0.9.142.exe",
-  "sha256": "b78416392a10271a7306347e6feaed13c854727b81e09c0c5882ac362ff88a82",
-  "notes": "SMART coaching level (plain words, no numbers, for a driver from zero; smart_level 2/3 for more). A stopped lap can no longer become the reference. Moments logged once. Highlights list newest first. The now line in the middle of the telemetry graph. Radar diagnostics. Plus 0.9.141 (MIC button, one GOAT at a time), 0.9.140 (the right gear in the approach call), 0.9.139-0.9.136."
+  "version": "0.9.143",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.143/GOAT-Setup-0.9.143.exe",
+  "sha256": "50d9e64baf389cbd818ea175c0ed74997eb8527a40a1af4c90fd2473248a9831",
+  "notes": "One corner set per circuit: the turn numbers no longer move between the web panel, the Corners window, SMART and a saved reference (Winton 12, VIR its official numbering). SMART speaks with one natural voice for everything, with the lines it repeats every lap prepared in advance. Plain words at coaching level 1, everywhere. TV angles wait until your session recording is closed. Corner Debrief no longer says \"0 m later\". Built from a full review of the 18 September sessions."
 }
