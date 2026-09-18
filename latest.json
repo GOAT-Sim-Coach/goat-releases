@@ -1,6 +1,6 @@
 {
-  "version": "0.9.136",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.136/GOAT-Setup-0.9.136.exe",
-  "sha256": "f526b1feb027a39ba91743d93a322008d23eb49b41706fb7d4c98da3f7729428",
-  "notes": "SMART: the mic is open all session and one floor rule decides who speaks (talk over SMART and it stops at once, it waits for you to finish); 'Turn 5, fourth gear'; coach checkboxes + AUTO mode on the SMART panel; natural voice for answers; better Spanish voice; 'You alright?' only after a real incident. Corners window: incoming corner on the middle line, real arrows, three colours. Drill window readable with a what-to-change line; several drills at once. VIR official turn numbers. Classic trace under the Corner Debrief cards. The 'OBS stopped by itself' recordings explained and closed; a stopped recording keeps its file. PRO map no longer keeps tiles from the previous session."
+  "version": "0.9.137",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.137/GOAT-Setup-0.9.137.exe",
+  "sha256": "a4ae03c805e0d999413e48cc8f0ea9d72635477e89a0d368b24bc5301492f8b6",
+  "notes": "SMART says when to open the replay so your highlights get their TV angles, and an on-top notice says 'don't close the sim' while GOAT films them. SMART speaks quicker. Plus everything from 0.9.136: the floor rule (talk over SMART and it stops at once), coach checkboxes + AUTO mode, 'Turn 5, fourth gear', 'You alright?' only after a real incident, Corners window with the incoming corner on the middle line and real arrows, readable Drill window with what-to-change hints and several drills at once, VIR official turn numbers, classic trace under the Corner Debrief cards, the 'OBS stopped by itself' recordings explained and closed, PRO map tiles from the previous session dropped."
 }
