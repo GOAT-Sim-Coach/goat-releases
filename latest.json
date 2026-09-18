@@ -1,6 +1,6 @@
 {
-  "version": "0.9.137",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.137/GOAT-Setup-0.9.137.exe",
-  "sha256": "a4ae03c805e0d999413e48cc8f0ea9d72635477e89a0d368b24bc5301492f8b6",
-  "notes": "SMART says when to open the replay so your highlights get their TV angles, and an on-top notice says 'don't close the sim' while GOAT films them. SMART speaks quicker. Plus everything from 0.9.136: the floor rule (talk over SMART and it stops at once), coach checkboxes + AUTO mode, 'Turn 5, fourth gear', 'You alright?' only after a real incident, Corners window with the incoming corner on the middle line and real arrows, readable Drill window with what-to-change hints and several drills at once, VIR official turn numbers, classic trace under the Corner Debrief cards, the 'OBS stopped by itself' recordings explained and closed, PRO map tiles from the previous session dropped."
+  "version": "0.9.138",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.138/GOAT-Setup-0.9.138.exe",
+  "sha256": "64c68d2120535ba8eb66bdb7fc9727f47dcb3d317f097fed38d2368024b0a37d",
+  "notes": "Corners window remembers the lap: last lap's colours stay at the lap change, the corner you're approaching flashes the dots that were red, and the T colour follows the dots (two reds / red+amber / three ambers = red, all green = green, else amber). Replay prompt only on sims GOAT can drive the replay of. Plus 0.9.137 (SMART says when to open the replay, on-top 'don't close the sim' notice, quicker SMART) and 0.9.136 (the floor rule, coach checkboxes + AUTO, 'fourth gear', 'You alright?' only after a real incident, real arrows, readable Drill window, several drills, VIR official numbers, trace under the Corner Debrief cards, OBS 'self-stop' closed, PRO map tiles fixed)."
 }
