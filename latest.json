@@ -1,6 +1,6 @@
 {
-  "version": "0.9.145",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.145/GOAT-Setup-0.9.145.exe",
-  "sha256": "e2deaabefb63569cc1a3a44243e8318c380f4fff911bf2df3f464421c523a47e",
-  "notes": "An incident now costs its corner, not the whole lap: your Winton race went from one usable lap and no diagnosis at all to three laps, 33 corner samples and all 12 corners diagnosed. SMART says when a corner comes back better, stops saying \"Brake.\" at a corner you already own, and leaves shift points alone during a race. The radar draws a car alongside you on the side it is really on."
+  "version": "0.9.146",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.146/GOAT-Setup-0.9.146.exe",
+  "sha256": "784e49c1f9cd2d3bd3fad0fa946e161007e82420cd66df7be1fb86ac7750221c",
+  "notes": "The corner you are heading into shows the gear to take it in - and one stray sample can no longer decide that gear (Winton's Turn 3 was being called \"first gear\"). A lap now has a talking budget, so SMART stops arriving in bursts, and the corner costing you most always gets through. It says where your time goes at a circuit before the first lap, from your own past sessions. A corner where something actually happened is drawn as not scored, not as bad technique."
 }
