@@ -1,6 +1,6 @@
 {
-  "version": "0.9.150",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.150/GOAT-Setup-0.9.150.exe",
-  "sha256": "430c46c48225f25ea5c81c5d5eaec674ff1df683e103d6d8df74673607a4806c",
-  "notes": "A second pass over every recorded session, all 120 of them. Shared laps with a gap in them had been silently refused by the server and never reached the community pool. Seven sessions were listed and then refused to open. Out-laps counted as clean laps, and one had a whole corner tree built on it. A Formula Vee was being coached against a Formula 1600 eighteen seconds a lap quicker. Braking marks were measured in the reference's idea of the circuit, eleven per cent out at one track. A corner four seconds gone now reads as an off rather than technique, a corner set too sparse to name a corner says so, and a written debrief that quotes a figure the telemetry does not contain is rewritten or replaced by the plain facts. Every event now passes the review gate with nothing to report. Includes all of 0.9.148 and 0.9.149."
+  "version": "0.9.151",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.151/GOAT-Setup-0.9.151.exe",
+  "sha256": "b7393418fd6da5f141d7b4feba8c9dfa2d4df2b00b2e5d30d5e90bdc18715a30",
+  "notes": "Compare no longer contradicts its own lap times: a lap eight seconds faster was being reported as four seconds slower, because the other lap stopped short of the line. The headline is the real difference between the two lap times now, and the panel says so when a lap does not go all the way round. Includes all of 0.9.150, the second pass over every recorded session."
 }
