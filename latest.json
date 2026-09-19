@@ -1,6 +1,6 @@
 {
-  "version": "0.9.152",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.152/GOAT-Setup-0.9.152.exe",
-  "sha256": "9eb100643946f008ac83ef82d7c4476e391c1d003d2c0837745a5b40c84eefc9",
-  "notes": "Every overlay was rendered away from the sim with a real lap and looked at. The telemetry overlay's delta bar ran under the reference name and the fuel line, so the delta was printed on top of two other lines. The Pit Box claimed iRacing has no pit-command API, which is untrue and is a feature GOAT ships. The chassis overlay printed a roll figure of zero beside a bar that was not empty. Includes 0.9.151 and 0.9.150."
+  "version": "0.9.153",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.153/GOAT-Setup-0.9.153.exe",
+  "sha256": "b84dc122fc0aa27cb89bcca5e03dcf9f7b463e3da4d42aec9073bd6d30a2088b",
+  "notes": "Four more checks, each looking somewhere the last one did not. SMART stopped explaining its own lookups to the driver. Corrupt telemetry can no longer produce a clean lap - one of no distance, one of negative distance and one of ninety million kilometres were all being counted. Six hundred randomly generated sessions are now checked against what must be true of any of them, sixty of them on every release. The packaged application was started and exercised end to end for the first time, and a brand-new installation was checked for anything that crashes or overclaims. Includes 0.9.150 to 0.9.152."
 }
