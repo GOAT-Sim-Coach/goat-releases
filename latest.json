@@ -1,6 +1,6 @@
 {
-  "version": "0.9.148",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.148/GOAT-Setup-0.9.148.exe",
-  "sha256": "36424a47ddb1de9eba86460ad9ba01da2cb9f8128229f2c40719aa1ad78a5b6d",
-  "notes": "Information review: eighteen recorded sessions across iRacing, Assetto Corsa and ACC swept end to end. SMART now answers only from the data it was given, with the delta's direction spelled out, your three costliest corners in hand and no invented figures. What counts as a lap was rebuilt: an ACC event that would not open, another counting every lap twice, a session of garage time reading as clean laps, a session where every lap had a track-limits incident reporting no clean lap at all, a lap cut short offered as a personal best, and a reference slower than your own best lap making Turn 1 worth 8.6 seconds. Corner numbering is the circuit's everywhere, including on ACC. Plus all of 0.9.146 and 0.9.147."
+  "version": "0.9.149",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.149/GOAT-Setup-0.9.149.exe",
+  "sha256": "1c439f8555b8e8ba9dafd533c2f92d3b6b9decdf1cb9b8d2ed0215c80a898de2",
+  "notes": "The engineer dashboard now says what it means: the Field table no longer paints a gap you are closing on the car ahead as bad news, consistency is measured on laps that can be compared instead of reading 23 seconds after one spin, the fuel line cannot call a pit stop off a missing number, and the corner lights are no longer below the bottom of a 1080p screen. Buttons that are switched off look switched off. On the phone, one missing field no longer leaves the whole companion app blank. Includes all of 0.9.148: SMART answering only from your own data, and a rebuilt idea of what counts as a lap."
 }
