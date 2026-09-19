@@ -1,6 +1,6 @@
 {
-  "version": "0.9.151",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.151/GOAT-Setup-0.9.151.exe",
-  "sha256": "b7393418fd6da5f141d7b4feba8c9dfa2d4df2b00b2e5d30d5e90bdc18715a30",
-  "notes": "Compare no longer contradicts its own lap times: a lap eight seconds faster was being reported as four seconds slower, because the other lap stopped short of the line. The headline is the real difference between the two lap times now, and the panel says so when a lap does not go all the way round. Includes all of 0.9.150, the second pass over every recorded session."
+  "version": "0.9.152",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.152/GOAT-Setup-0.9.152.exe",
+  "sha256": "9eb100643946f008ac83ef82d7c4476e391c1d003d2c0837745a5b40c84eefc9",
+  "notes": "Every overlay was rendered away from the sim with a real lap and looked at. The telemetry overlay's delta bar ran under the reference name and the fuel line, so the delta was printed on top of two other lines. The Pit Box claimed iRacing has no pit-command API, which is untrue and is a feature GOAT ships. The chassis overlay printed a roll figure of zero beside a bar that was not empty. Includes 0.9.151 and 0.9.150."
 }
