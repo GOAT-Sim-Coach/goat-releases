@@ -1,6 +1,6 @@
 {
-  "version": "0.9.169",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.169/GOAT-Setup-0.9.169.exe",
-  "sha256": "c6c0b11cacd31af6f4a7bc41c96fac9b4cfbf60537e0e492ca7759798833adc3",
-  "notes": "The track map now has a size it never goes below, and the lap table gives way to it instead. The split you picked could not actually hold both - on a 1920 screen it wanted 1,610 pixels inside 1,576 and hid the difference in a sideways page scroll, while the map's edge was being clipped because the chart library refuses to draw itself under 656 pixels. The map is now never narrower than 656 pixels at any window size, all fourteen lap-table columns are visible from 1900 pixels up, and below 1320 pixels the map sits full width above the table. Two more cut-off texts are gone: long circuit names in the session list wrap instead of ending in an ellipsis, and the folder your recordings are stored in shows in full."
+  "version": "0.9.170",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.170/GOAT-Setup-0.9.170.exe",
+  "sha256": "4802cfb2f7073546b819b3a0c2d2cf294082f15ad249778a62e6935442d9e5f7",
+  "notes": "Five test passes against the installed build. The big one: a single lap missing 14 position samples out of 1001 was destroying the whole session's centreline, and with it every racing-line comparison GOAT makes - Corner Debrief said “No position data available to compare your line here” for all sixteen corners of a session whose position data was complete, while the map drew both lines above the message. It now reads “You ran 2.8m wider through here than your reference.” Corner Debrief's stat cards were cutting off their own values (the best lap read “1:53...”); the corner tree was clipped with no way to scroll to eight of sixteen corners; the lap table collapsed to five rows. The Spanish headline was half-translated, and longer Spanish headers were pushing the last lap-table column off the end. Launching GOAT while it was already running started a second server on the phone-dashboard port. 807 tests pass."
 }
