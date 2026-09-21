@@ -1,6 +1,6 @@
 {
-  "version": "0.9.170",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.170/GOAT-Setup-0.9.170.exe",
-  "sha256": "4802cfb2f7073546b819b3a0c2d2cf294082f15ad249778a62e6935442d9e5f7",
-  "notes": "Five test passes against the installed build. The big one: a single lap missing 14 position samples out of 1001 was destroying the whole session's centreline, and with it every racing-line comparison GOAT makes - Corner Debrief said “No position data available to compare your line here” for all sixteen corners of a session whose position data was complete, while the map drew both lines above the message. It now reads “You ran 2.8m wider through here than your reference.” Corner Debrief's stat cards were cutting off their own values (the best lap read “1:53...”); the corner tree was clipped with no way to scroll to eight of sixteen corners; the lap table collapsed to five rows. The Spanish headline was half-translated, and longer Spanish headers were pushing the last lap-table column off the end. Launching GOAT while it was already running started a second server on the phone-dashboard port. 807 tests pass."
+  "version": "0.9.171",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.171/GOAT-Setup-0.9.171.exe",
+  "sha256": "39b02c26cc61a6b54041bf10629712e682796a935127efec4e59bba0ba2e5171",
+  "notes": "The corner tree now speaks Spanish - its rows were the last English left on a Spanish screen. The coaching sentences are built in Python and now go through the same translator the Corner Debrief used; the row text is assembled in the browser around the numbers, so those are keyed as the fragments the page actually renders (“typ +0.02 s”, “1.0 m tight”, “5 m earlier”, “+0.05 s lost on the straight, arriving 0.2 km/h slower at its brake point”). A new test demands a Spanish entry for every sentence template the corner tree can produce, and found four more that had none. Numbers, corner numbers and the circuit's own corner names stay as they are."
 }
