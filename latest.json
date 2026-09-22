@@ -1,6 +1,6 @@
 {
-  "version": "0.9.179",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.179/GOAT-Setup-0.9.179.exe",
-  "sha256": "84eb8bef19b399cef168af7e8491b0e361c05515821a5b6b236056aeebf11134",
-  "notes": "A security release for the account side of GOAT; nothing changes in how you use it. Cloud backup, community sharing, satellite imagery and the AI coach now identify this PC on every call, so a copied config file no longer works from another machine, and the sign-in token is stored encrypted for your Windows account. If cloud backup ever says \"device mismatch\", sign out and back in from the Account panel. On the server: sign-ins are bound to the browser that started them, an unverified email can never claim an existing account, the free trial and loyalty months end exactly when they should, and a payment event that failed once is retried instead of dropped. Install this before 6 October: from that date the server requires the device check that only this version sends."
+  "version": "0.9.180",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.180/GOAT-Setup-0.9.180.exe",
+  "sha256": "eba177826331e8909a203be93679e1d2ca39e4a70ce21c577d77af47ae6d08df",
+  "notes": "A quality release from a full pass over every screen. Charts now work with no internet (the chart library ships inside GOAT). Errors appear as small messages in the corner instead of browser pop-ups, in your language. The browser's Back and Forward buttons move between the sessions you opened. A session that fails to load shows a banner with Retry, the map says \"loading the lap\" until it is drawn, and a session with only pit laps explains why there is no map. The Setups tab and Compare follow the session you have open. Tab stays inside an open panel, and on a phone the session list sits above the page. Everything from 0.9.179 is included."
 }
