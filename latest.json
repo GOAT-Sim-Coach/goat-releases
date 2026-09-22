@@ -1,6 +1,6 @@
 {
-  "version": "0.9.184",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.184/GOAT-Setup-0.9.184.exe",
-  "sha256": "551f1cff7710913ea65bc0654c4634661e0ca7c0005c020c9709961736c76c47",
-  "notes": "- The Assetto Corsa radar shows cars on the correct side (a car on your right was drawn on your left).\n- The Corners window shows the current corner set after an update: corners are re-detected from the saved reference on every restart."
+  "version": "0.9.185",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.185/GOAT-Setup-0.9.185.exe",
+  "sha256": "2594bd29c38b9786bad746af28f910eab3919a5ee305f8033b5a8ceebeb0a7ca",
+  "notes": "- \"60 seconds down\" on every lap is gone: a new best lap whose first sample still carried the previous lap's clock collapsed the reference's time array to zero.\n- Each lap is announced once (the lap distance can jitter across the line in AC).\n- The same flag repeats at most every 45 seconds instead of on every flicker."
 }
