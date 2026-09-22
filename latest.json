@@ -1,6 +1,6 @@
 {
-  "version": "0.9.186",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.186/GOAT-Setup-0.9.186.exe",
-  "sha256": "b3442b7dc2f84fd75a48c7979103596016554cc759e50fac94b902621e50cf90",
-  "notes": "- No second Corners window: windows opened from the telemetry overlay's own buttons are now found, adopted and stopped by the app.\n- A race reel that cannot start (no replay open in the sim) says so as a notice."
+  "version": "0.9.187",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.187/GOAT-Setup-0.9.187.exe",
+  "sha256": "297c965a64a615a204b992f692da1e9c9e2b47ab050b7245e96a35954ea7485e",
+  "notes": "- No spikes on any line of the telemetry overlay: every reference (live session best, restored, or read from a telemetry file) and your own live line clean isolated single-sample outliers on throttle, brake, steering, speed and gear."
 }
