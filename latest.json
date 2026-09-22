@@ -1,6 +1,6 @@
 {
-  "version": "0.9.183",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.183/GOAT-Setup-0.9.183.exe",
-  "sha256": "a866ca89e015cf4f926b6400b91c5d9e6b561309d01b7c61d2c8162495c02641",
-  "notes": "- Assetto Corsa and ACC sessions are back in the session list (since 0.9.165 the AC and ACC tabs said \"No telemetry found\" for every session on the PC).\n- A session GOAT is still recording can be opened; a log cut off by a crash reads up to its last complete row.\n- The Stint window no longer crashes on launch when a stint is already armed."
+  "version": "0.9.184",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.184/GOAT-Setup-0.9.184.exe",
+  "sha256": "551f1cff7710913ea65bc0654c4634661e0ca7c0005c020c9709961736c76c47",
+  "notes": "- The Assetto Corsa radar shows cars on the correct side (a car on your right was drawn on your left).\n- The Corners window shows the current corner set after an update: corners are re-detected from the saved reference on every restart."
 }
