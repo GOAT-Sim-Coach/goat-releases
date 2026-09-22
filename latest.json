@@ -1,6 +1,6 @@
 {
-  "version": "0.9.181",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.181/GOAT-Setup-0.9.181.exe",
-  "sha256": "c365398cce1eabc65e9c4503da1c3576a0bd7eacd781f10baa6c8e77c77b87fc",
-  "notes": "SMART, the voice engineer, after an honest capability review.\n\n- Race calls are short again: a hard cap per session type (2-8 words in a race, one sentence in qualifying, two in practice).\n- Pit calls come from arithmetic: fuel laps, the lap a stop is forced by, the tyre floor and the undercut are computed and handed to SMART. A required stop is never \"stay out\".\n- Setup advice from a damper table, a fast-corner rule and a conditions block, with a self-check before he speaks.\n- He knows each corner's speed class and direction from your own reference lap.\n- A change ledger: what he suggested, what changed, what the laps did; \"did that help?\" is answered from the laps. He corrects you if you attribute to him something he did not say.\n- Eight turns of memory instead of three.\n- \"Say again?\" when the mic is not confident, before any AI call.\n- \"Go on\" brings back an answer you talked over.\n- After an off in a race: information only.\n- sr.py smart-eval: a repeatable scored test of SMART's radio scenarios."
+  "version": "0.9.182",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.182/GOAT-Setup-0.9.182.exe",
+  "sha256": "4f14423e4b5e7af42e50e0c0153ae13b967fa3b3a0f596d45e1f6bf2ff370fa8",
+  "notes": "Two fixes from a live Assetto Corsa session at the Renault test track.\n\n- The Corners window finds every corner on a track GOAT learns live from your own lap (AC/ACC): one corner per apex with the real left/right arrow, instead of merging a loop or a multi-apex complex into one. A new best lap rebuilds the list.\n- The radar is see-through: only the cones, the centre car block, the dashed guide lines and a faint rim remain; the rim turns red when a car is alongside or closing."
 }
