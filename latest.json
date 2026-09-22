@@ -1,6 +1,6 @@
 {
-  "version": "0.9.185",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.185/GOAT-Setup-0.9.185.exe",
-  "sha256": "2594bd29c38b9786bad746af28f910eab3919a5ee305f8033b5a8ceebeb0a7ca",
-  "notes": "- \"60 seconds down\" on every lap is gone: a new best lap whose first sample still carried the previous lap's clock collapsed the reference's time array to zero.\n- Each lap is announced once (the lap distance can jitter across the line in AC).\n- The same flag repeats at most every 45 seconds instead of on every flicker."
+  "version": "0.9.186",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.186/GOAT-Setup-0.9.186.exe",
+  "sha256": "b3442b7dc2f84fd75a48c7979103596016554cc759e50fac94b902621e50cf90",
+  "notes": "- No second Corners window: windows opened from the telemetry overlay's own buttons are now found, adopted and stopped by the app.\n- A race reel that cannot start (no replay open in the sim) says so as a notice."
 }
