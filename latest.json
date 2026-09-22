@@ -1,6 +1,6 @@
 {
-  "version": "0.9.180",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.180/GOAT-Setup-0.9.180.exe",
-  "sha256": "eba177826331e8909a203be93679e1d2ca39e4a70ce21c577d77af47ae6d08df",
-  "notes": "A quality release from a full pass over every screen. Charts now work with no internet (the chart library ships inside GOAT). Errors appear as small messages in the corner instead of browser pop-ups, in your language. The browser's Back and Forward buttons move between the sessions you opened. A session that fails to load shows a banner with Retry, the map says \"loading the lap\" until it is drawn, and a session with only pit laps explains why there is no map. The Setups tab and Compare follow the session you have open. Tab stays inside an open panel, and on a phone the session list sits above the page. Everything from 0.9.179 is included."
+  "version": "0.9.181",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.181/GOAT-Setup-0.9.181.exe",
+  "sha256": "c365398cce1eabc65e9c4503da1c3576a0bd7eacd781f10baa6c8e77c77b87fc",
+  "notes": "SMART, the voice engineer, after an honest capability review.\n\n- Race calls are short again: a hard cap per session type (2-8 words in a race, one sentence in qualifying, two in practice).\n- Pit calls come from arithmetic: fuel laps, the lap a stop is forced by, the tyre floor and the undercut are computed and handed to SMART. A required stop is never \"stay out\".\n- Setup advice from a damper table, a fast-corner rule and a conditions block, with a self-check before he speaks.\n- He knows each corner's speed class and direction from your own reference lap.\n- A change ledger: what he suggested, what changed, what the laps did; \"did that help?\" is answered from the laps. He corrects you if you attribute to him something he did not say.\n- Eight turns of memory instead of three.\n- \"Say again?\" when the mic is not confident, before any AI call.\n- \"Go on\" brings back an answer you talked over.\n- After an off in a race: information only.\n- sr.py smart-eval: a repeatable scored test of SMART's radio scenarios."
 }
