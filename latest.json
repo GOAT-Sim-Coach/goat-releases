@@ -1,6 +1,6 @@
 {
-  "version": "0.9.190",
-  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.190/GOAT-Setup-0.9.190.exe",
-  "sha256": "0f7b554c296f8f5b24a4930c2de3a607661e0e8f228877b6b878120920f92926",
-  "notes": "The beta programme, and a GOAT Help fix.\n\n- GOAT Help answers technical questions again: on paid plans every real question came back as \"I couldn't put an answer together\" because the model spent its whole answer budget thinking. Fixed on the server.\n- Beta programme: an invited tester signs in with Google or Discord and the app comes up fully unlocked for the programme (a BETA badge shows until when). Sharing stays at GOAT Elite; the only sharing choice left is whether your name appears on reference laps.\n- Feedback reaches us: the Feedback and Request buttons also send to GOAT when signed in, with a redacted copy of your logs and diagnostics when the box is ticked.\n- Send logs uploads the redacted bundle straight to GOAT support when signed in; the zip-in-Downloads and email route remains when not."
+  "version": "0.9.191",
+  "url": "https://github.com/GOAT-Sim-Coach/goat-releases/releases/download/v0.9.191/GOAT-Setup-0.9.191.exe",
+  "sha256": "4ff147fd3ed07bdae898775b62d745853571fec569fc840100c641e4bb8dc963",
+  "notes": "REC button on the telemetry overlay.\n\n- Start and stop the recording from the overlay's title bar, next to the gear, without going back to GOAT.\n- It shows the same truth as the Highlights panel: red with a running clock whenever a recording is open, whoever started it (Auto mode included); amber while OBS is coming up or while a recording is armed for the moment you are on track; grey when idle.\n- Stopping here stops it everywhere, and the highlight moments are logged exactly as when you press Start on the web page."
 }
